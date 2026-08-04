@@ -250,6 +250,21 @@ Las ideas no forman parte del proyecto hasta que exista una decisión formal.
 
 ---
 
+# Jerarquía de fuentes
+
+Cuando dos documentos parezcan estar en conflicto, prevalece el que ocupe la posición más alta en el siguiente orden:
+
+1. `05_PROYECTO.md` — representa el estado oficial y consolidado del diseño del proyecto. Una vez que una decisión o un dato se incorpora aquí, esta es la versión vigente.
+2. `02_DECISIONES.md` — gobierna todo lo que `05_PROYECTO.md` aún no ha incorporado. Ninguna sección de `05_PROYECTO.md` puede contradecir una decisión activa sin que exista antes una nueva entrada aquí.
+3. `04_ELDP.md` — fija los límites y requisitos externos de la convocatoria. `02_DECISIONES.md` y `05_PROYECTO.md` deben ser compatibles con lo registrado aquí.
+4. `08_EVIDENCIAS.md` — respalda las afirmaciones utilizadas en `05_PROYECTO.md` y `04_ELDP.md`. Las afirmaciones del proyecto deberían estar respaldadas por evidencia registrada aquí o por una fuente oficial claramente identificada.
+5. `03_ASSUMPTIONS.md` — contiene lo que todavía no tiene respaldo suficiente para pasar a `08_EVIDENCIAS.md` o a una decisión.
+6. `10_IDEAS.md` — variantes sin aprobar; no puede citarse como si describiera el proyecto real.
+7. `01_DASHBOARD.md`, `06_BACKLOG.md`, `09_BITACORA.md`, `07_GLOSARIO.md` — documentos operativos o derivados; reflejan el estado de los documentos anteriores, pero no lo definen.
+8. Historial de chats — nunca es fuente vigente una vez que sus conclusiones quedan incorporadas en este repositorio.
+
+---
+
 # Flujo de trabajo recomendado
 
 Toda sesión debería seguir el siguiente orden:
