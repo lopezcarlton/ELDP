@@ -92,6 +92,25 @@ La base de conocimiento queda preparada para iniciar con Claude la lluvia de ide
 
 ---
 
+## 2026-08-03 — Investigación de evidencia sobre amenaza/vitalidad (PEN-001)
+
+**Objetivo:** Cerrar PEN-001 antes de diseñar el proyecto piloto.
+
+**Resultados:**
+- Ethnologue clasifica el diidxazá (zai) como EGIDS 5, no como lengua amenazada globalmente.
+- La vitalidad varía fuertemente por municipio: Ixhuatán en ruptura severa (~2% hablantes), Xadani/San Blas Atempa/Álvaro Obregón con transmisión fuerte.
+- Ya existe un antecedente académico de comparación multi-localidad (2015), lo que obliga a diferenciar el piloto de trabajo ya hecho.
+
+**Decisiones tomadas:** Ninguna aún — evidencia consolidada, pendiente de decisión sobre alcance geográfico del piloto.
+
+**Archivos modificados:** 08_EVIDENCIAS.md, 03_ASSUMPTIONS.md
+
+**Tareas completadas:** Backlog "Reunir evidencia sobre amenaza y contexto sociolingüístico" — avance parcial, falta verificación de campo.
+
+**Pendientes y siguiente paso:** Decidir si el piloto se enfoca en un municipio nuevo (Ixhuatán) o permanece en Juchitán; luego iniciar lluvia de ideas en 10_IDEAS.md.
+
+---
+
 ## Plantilla para futuras entradas
 
 ### AAAA-MM-DD — Título de la sesión
