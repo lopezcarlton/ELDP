@@ -1,7 +1,7 @@
 # Rapid Grant ELDP — Registro de Supuestos
 
-**Versión:** 1.0  
-**Última actualización:** 2026-08-03
+**Versión:** 1.1  
+**Última actualización:** 2026-08-04
 
 ## Propósito
 
@@ -26,6 +26,14 @@ Este archivo registra afirmaciones plausibles que todavía no han sido demostrad
 | SUP-008 | Los materiales preliminares pueden archivarse en un repositorio confiable con consentimiento y metadatos adecuados. | Abierto | Consultar requisitos de archivo y definir licencias/acceso. | Debilidad en historial y plan de documentación. |
 | SUP-009 | La experiencia académica y de campo del solicitante es suficiente para cumplir el perfil esperado. | Parcialmente respaldado | Preparar CV narrativo y evidencia de experiencia relevante. | Dudas sobre capacidad de ejecución. |
 | SUP-010 | El resultado del Rapid podrá conducir de manera creíble a un Small Grant u otro proyecto posterior. | Abierto | Definir preguntas que el piloto resolverá y qué quedará para la fase siguiente. | Falta de potencial de desarrollo posterior. |
+
+## Correcciones de supuestos e inferencias invalidadas
+
+### Enrique "Guajiro" López
+
+**Corrección (2026-08-04):** Enrique "Guajiro" López, padre del solicitante, **no es colaborador formal del proyecto**. Su papel documentado es el de interlocutor en un diálogo informal y fuente de retroalimentación sobre el diseño del corpus, tal como se describe en `DOC002 — Principios de diseño del corpus Voces de las Nubes.pdf`.
+
+No debe presentarse como colaborador con participación activa confirmada en ninguna variante del Rapid Grant. Cualquier inferencia previa que lo tratara como integrante del equipo, participante formal o colaborador comprometido queda invalidada.
 
 ## Regla de actualización
 
