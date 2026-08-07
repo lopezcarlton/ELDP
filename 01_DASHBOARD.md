@@ -1,79 +1,82 @@
-# Rapid Grant ELDP — Dashboard del Proyecto
+# ELDP — Dashboard del Proyecto
 
-**Versión:** 1.0  
-**Última actualización:** 2026-08-03
+**Versión:** 1.1  
+**Última actualización:** 2026-08-07
 
 ## Estado general
 
 - **Proyecto:** Voces de las Nubes
-- **Convocatoria:** ELDP Rapid Grant
-- **Estado:** Preparación de la candidatura
-- **Fase actual:** Base de conocimiento consolidada; diseño del proyecto piloto pendiente
+- **Convocatoria objetivo:** ELDP Small Grant
+- **Estado:** Reorientación estratégica tras cierre de la vía Rapid Grant
+- **Fase actual:** Confirmar encaje del proyecto en Small Grant y elegibilidad institucional de Casa de las Ciencias
 
 ## Objetivo inmediato
 
-Definir, junto con Claude, un proyecto piloto de documentación lingüística que encaje de forma natural en el alcance de un Rapid Grant de ELDP.
+Confirmar con ELDP que el perfil de Voces de las Nubes encaja en Small Grant y verificar que Casa de las Ciencias puede actuar como institución acreditada administradora de los fondos.
 
 ## Prioridad única
 
-Construir una candidatura sólida, realista y estrictamente alineada con la lógica de ELDP.
+Construir una candidatura sólida, realista y estrictamente alineada con la lógica del Small Grant de ELDP.
 
 ## Cuello de botella actual
 
-Aún no se ha definido qué hará exactamente el proyecto piloto durante un máximo de seis meses y con un presupuesto máximo de 5.000 €.
+La vía Rapid Grant quedó cerrada tras la respuesta oficial de ELDP del 2026-08-07. El cuello de botella es ahora confirmar elegibilidad institucional y delimitar un proyecto Small Grant coherente con el trabajo ya realizado.
 
 ## Decisiones críticas pendientes
 
-- Alcance exacto del proyecto piloto.
-- Actividades de trabajo de campo.
-- Participantes y colaboradores.
-- Entregables concretos.
-- Criterios de éxito.
-- Cronograma.
-- Presupuesto.
-- Transición hacia una fase posterior de documentación.
+- Confirmar con ELDP el encaje de Voces de las Nubes en Small Grant.
+- Verificar criterios de acreditación institucional para Casa de las Ciencias.
+- Definir alcance exacto del Small Grant.
+- Definir actividades de trabajo de campo.
+- Definir participantes y colaboradores.
+- Definir entregables concretos y criterios de éxito.
+- Definir cronograma de 6 a 12 meses.
+- Elaborar presupuesto de hasta 10.000 €.
+- Definir plan de ética, consentimiento, metadatos y archivo.
 
 ## Ruta crítica
 
 - [x] Comprender el propósito oficial del Rapid Grant.
-- [x] Separar la visión institucional de largo plazo de la narrativa específica para ELDP.
-- [x] Identificar la base metodológica del proyecto.
-- [x] Construir la base de conocimiento.
-- [ ] Realizar lluvia de ideas del proyecto piloto.
-- [ ] Seleccionar y justificar una opción.
+- [x] Explorar variantes de Rapid Grant para Juchitán.
+- [x] Consultar directamente a ELDP sobre elegibilidad del trabajo pendiente de COR002 y géneros específicos.
+- [x] Recibir respuesta oficial de ELDP y cerrar la vía Rapid Grant.
+- [ ] Confirmar con ELDP el encaje del proyecto en Small Grant.
+- [ ] Verificar elegibilidad/acreditación de Casa de las Ciencias como institución administradora.
+- [ ] Revisar Small Grants financiados y criterios aplicables.
+- [ ] Definir el alcance del Small Grant.
 - [ ] Definir actividades, participantes y productos.
-- [ ] Definir ética, consentimiento y gestión de datos.
+- [ ] Definir ética, consentimiento, gestión de datos y archivo.
 - [ ] Elaborar cronograma y presupuesto.
 - [ ] Redactar la aplicación.
 - [ ] Revisar y enviar.
 
 ## Riesgos activos
 
-1. Sobredimensionar el proyecto para un Rapid Grant.
-2. Presentar como hechos elementos que todavía son supuestos.
-3. Mezclar documentación lingüística con objetivos tecnológicos de largo plazo.
-4. Convertir un proyecto exploratorio en la continuación de trabajo ya en curso.
-5. Diseñar entregables que no demuestren potencial para una fase posterior de documentación.
+1. Asumir elegibilidad institucional sin confirmación directa de ELDP.
+2. Confundir hechos confirmados con inferencias sobre criterios de elegibilidad.
+3. Sobredimensionar el proyecto para un Small Grant de hasta 10.000 € y 6-12 meses.
+4. Presentar el trabajo ya realizado de forma imprecisa o incompleta.
+5. No demostrar con claridad el valor documental del proyecto y su plan de archivo.
 
 ## Próximo entregable
 
-Documento de lluvia de ideas y comparación de variantes para el proyecto piloto, a desarrollar con Claude en `10_IDEAS.md` y consolidar posteriormente en `05_PROYECTO.md`.
+Confirmación escrita de ELDP sobre el encaje de Voces de las Nubes en Small Grant y sobre los criterios que debe cumplir Casa de las Ciencias como institución administradora.
 
 ## Estado de los archivos
 
 | Archivo | Estado |
 |---|---|
 | `00_README.md` | Completo |
-| `01_DASHBOARD.md` | Completo |
-| `02_DECISIONES.md` | Completo |
-| `03_ASSUMPTIONS.md` | Completo |
-| `04_ELDP.md` | Completo con la fuente oficial disponible |
-| `05_PROYECTO.md` | Plantilla pendiente de definición |
-| `06_BACKLOG.md` | Completo |
+| `01_DASHBOARD.md` | Actualizado a estrategia Small Grant |
+| `02_DECISIONES.md` | Actualizado con cierre de Rapid Grant |
+| `03_ASSUMPTIONS.md` | Actualizado; rol institucional corregido |
+| `04_ELDP.md` | Requiere ampliación específica de Small Grant |
+| `05_PROYECTO.md` | Pendiente de redefinición para Small Grant |
+| `06_BACKLOG.md` | Actualizado a ruta Small Grant |
 | `07_GLOSARIO.md` | Completo, sujeto a ampliación |
-| `08_EVIDENCIAS.md` | Inicial, sujeto a ampliación |
-| `09_BITACORA.md` | Inicial |
-| `10_IDEAS.md` | Preparado para lluvia de ideas |
+| `08_EVIDENCIAS.md` | Actualizado con respuesta oficial y rol institucional |
+| `09_BITACORA.md` | Actualizado |
+| `10_IDEAS.md` | Conserva historial de exploración; Rapid cerrado |
 
 ## Regla de mantenimiento
 
