@@ -1,7 +1,7 @@
-# Rapid Grant ELDP — Backlog Activo
+# ELDP — Backlog Activo
 
-**Versión:** 1.0  
-**Última actualización:** 2026-08-03
+**Versión:** 1.1  
+**Última actualización:** 2026-08-07
 
 ## Regla
 
@@ -12,22 +12,26 @@
 
 ## Prioridad principal
 
-Definir y consolidar el proyecto piloto que será presentado al Rapid Grant.
+Confirmar que Voces de las Nubes encaja en Small Grant y que Casa de las Ciencias puede administrar la subvención.
 
 ## Tareas activas
 
 | Prioridad | Tarea | Estado | Bloquea el envío | Resultado esperado |
 |---|---|---|---|---|
-| 🔴 | Realizar lluvia de ideas del proyecto piloto con Claude | Pendiente | Sí | Variantes comparables y suficientemente concretas |
-| 🔴 | Seleccionar el alcance del proyecto piloto | Pendiente | Sí | Decisión registrada y resumen en una frase |
-| 🔴 | Definir actividades, participantes y lugar de campo | Pendiente | Sí | Plan operativo verificable |
-| 🔴 | Definir entregables y criterios de éxito | Pendiente | Sí | Productos documentales medibles |
-| 🔴 | Reunir evidencia sobre amenaza y contexto sociolingüístico | Pendiente | Sí | Fuentes suficientes para debida diligencia |
-| 🔴 | Inventariar recursos documentales existentes | Pendiente | Sí | Estado del arte y brecha claramente definidos |
+| 🔴 | Confirmar con ELDP el encaje de Voces de las Nubes en Small Grant | Pendiente | Sí | Respuesta escrita que confirme o delimite elegibilidad |
+| 🔴 | Verificar criterios de acreditación institucional para Casa de las Ciencias | Pendiente | Sí | Confirmación de que puede administrar fondos ELDP |
+| 🔴 | Definir alcance exacto del Small Grant | Pendiente | Sí | Proyecto delimitado en 6-12 meses y hasta 10.000 € |
+| 🔴 | Revisar Small Grants financiados por ELDP | Pendiente | Sí | Comparación verificable de alcance, actividades y productos |
+| 🔴 | Inventariar recursos documentales existentes | Pendiente | Sí | Estado del arte y brecha documental claramente definidos |
+| 🔴 | Reunir evidencia suficiente sobre vitalidad y contexto sociolingüístico | En curso | Sí | Argumento geográficamente acotado y verificable |
+| 🟠 | Definir actividades, participantes y lugares de campo | Pendiente | Sí | Plan operativo verificable |
+| 🟠 | Definir entregables, metadatos, archivo y criterios de éxito | Pendiente | Sí | Productos documentales medibles y archivables |
 | 🟠 | Elaborar consentimiento y estrategia ética | Pendiente | Sí | Protocolo compatible con participantes y archivo |
-| 🟠 | Definir metadatos, formatos y archivo | Pendiente | Sí | Plan mínimo de gestión de datos |
-| 🟠 | Elaborar cronograma y presupuesto | Pendiente | Sí | Proyecto de hasta seis meses y 5.000 € |
-| 🟢 | Revisar Rapid Grants financiados por ELDP | Pendiente | No | Punto de comparación verificable |
+| 🟠 | Elaborar cronograma y presupuesto | Pendiente | Sí | Proyecto coherente con 6-12 meses y máximo 10.000 € |
+
+## PENs cerrados
+
+- **¿Aplica Rapid Grant a nuestro perfil?** → **No.** Cerrado el 2026-08-07 tras respuesta oficial de ELDP.
 
 ## En espera
 
@@ -35,18 +39,20 @@ Estas tareas no forman parte del backlog activo:
 
 - sitio web;
 - GitHub público del proyecto;
-- figura jurídica;
+- figura jurídica propia;
 - consejo asesor;
 - infraestructura institucional amplia;
 - herramientas tecnológicas de largo plazo;
 - expansión a otras lenguas;
-- solicitudes a financiadores tecnológicos.
+- solicitudes a financiadores tecnológicos;
+- cualquier nueva variante de Rapid Grant, salvo nueva información oficial de ELDP.
 
 ## Criterio de finalización del backlog
 
 La fase de preparación termina cuando:
 
-1. `05_PROYECTO.md` está completo y aprobado;
-2. toda afirmación crítica tiene evidencia o está marcada como incertidumbre;
-3. cronograma y presupuesto coinciden con actividades y entregables;
-4. la candidatura puede redactarse sin tomar decisiones nuevas.
+1. la elegibilidad de la modalidad y de la institución administradora está confirmada;
+2. `05_PROYECTO.md` está completo y aprobado para Small Grant;
+3. toda afirmación crítica tiene evidencia o está marcada como incertidumbre;
+4. cronograma y presupuesto coinciden con actividades y entregables;
+5. la candidatura puede redactarse sin tomar decisiones nuevas.
