@@ -7,7 +7,7 @@
 
 - **Proyecto:** Voces de las Nubes
 - **Convocatoria objetivo:** ELDP Small Grant
-- **Estado:** Reorientación estratégica tras cierre de la vía Rapid Grant
+- **Estado:** Reorientación completada; diseño pendiente de definición
 - **Fase actual:** Confirmar encaje del proyecto en Small Grant y elegibilidad institucional de Casa de las Ciencias
 
 ## Objetivo inmediato
@@ -70,8 +70,8 @@ Confirmación escrita de ELDP sobre el encaje de Voces de las Nubes en Small Gra
 | `01_DASHBOARD.md` | Actualizado a estrategia Small Grant |
 | `02_DECISIONES.md` | Actualizado con cierre de Rapid Grant |
 | `03_ASSUMPTIONS.md` | Actualizado; rol institucional corregido |
-| `04_ELDP.md` | Requiere ampliación específica de Small Grant |
-| `05_PROYECTO.md` | Pendiente de redefinición para Small Grant |
+| `04_ELDP.md` | Reorientado a Small Grant (v2.0) |
+| `05_PROYECTO.md` | Reorientado a Small Grant (v0.2) |
 | `06_BACKLOG.md` | Actualizado a ruta Small Grant |
 | `07_GLOSARIO.md` | Completo, sujeto a ampliación |
 | `08_EVIDENCIAS.md` | Actualizado con respuesta oficial y rol institucional |

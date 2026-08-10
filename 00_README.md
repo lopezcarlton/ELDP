@@ -1,4 +1,4 @@
-# Rapid Grant ELDP — Base de Conocimiento del Proyecto
+# Small Grant ELDP — Base de Conocimiento del Proyecto
 
 **Archivo:** `00_README.md`  
 **Versión:** 1.0  
@@ -9,7 +9,7 @@
 
 # ¿Qué es este repositorio?
 
-Este repositorio constituye la **Base de Conocimiento oficial** para el desarrollo de la candidatura de **Voces de las Nubes** al **Rapid Grant** del **Endangered Languages Documentation Programme (ELDP)**.
+Este repositorio constituye la **Base de Conocimiento oficial** para el desarrollo de la candidatura de **Voces de las Nubes** al **Small Grant** del **Endangered Languages Documentation Programme (ELDP)**.
 
 No es un borrador de la propuesta.
 
@@ -25,7 +25,7 @@ Todos los documentos de este repositorio cumplen una función específica y debe
 
 # Objetivo
 
-Construir una candidatura altamente competitiva al Rapid Grant del ELDP mediante un proceso sistemático de investigación, consolidación del conocimiento y diseño del proyecto.
+Construir una candidatura altamente competitiva al Small Grant del ELDP mediante un proceso sistemático de investigación, consolidación del conocimiento y diseño del proyecto.
 
 La propuesta final será redactada posteriormente utilizando esta Base de Conocimiento como única fuente de verdad.
 
@@ -33,7 +33,7 @@ La propuesta final será redactada posteriormente utilizando esta Base de Conoci
 
 # Alcance
 
-Esta Base de Conocimiento cubre exclusivamente la preparación de la candidatura al Rapid Grant.
+Esta Base de Conocimiento cubre exclusivamente la preparación de la candidatura al Small Grant.
 
 No documenta todo el proyecto Voces de las Nubes.
 
@@ -98,7 +98,7 @@ Las interpretaciones deberán actualizarse en consecuencia.
 # Arquitectura del repositorio
 
 ```text
-Rapid Grant ELDP/
+Small Grant ELDP/
 
 00_README.md
 01_DASHBOARD.md
@@ -180,7 +180,7 @@ Debe distinguir claramente entre:
 
 ## 05_PROYECTO.md
 
-Documento donde vive el diseño del proyecto Rapid Grant.
+Documento donde vive el diseño del proyecto Small Grant.
 
 Incluye:
 

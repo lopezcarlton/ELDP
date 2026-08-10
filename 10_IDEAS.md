@@ -1,4 +1,4 @@
-# Rapid Grant ELDP — Ideas y Variantes del Proyecto Piloto
+# Small Grant ELDP — Ideas y Variantes del Proyecto Piloto
 
 **Versión:** 1.0  
 **Última actualización:** 2026-08-03  
@@ -15,7 +15,7 @@ Este archivo es el espacio de lluvia de ideas. Su contenido no constituye decisi
 - 🧪 **PARA PROBAR:** merece desarrollo o contraste.
 - ✅ **INCORPORADA:** aprobada y trasladada al diseño.
 - ❌ **DESCARTADA:** rechazada con motivo registrado.
-- ⏸ **POSPUESTA:** valiosa, pero fuera del Rapid.
+- ⏸ **POSPUESTA:** valiosa, pero fuera del Small Grant.
 
 ## Criterios obligatorios para evaluar variantes
 
@@ -111,7 +111,7 @@ Pendiente.
 
 ## Ideas pospuestas por principio
 
-Las siguientes líneas pertenecen a la visión de largo plazo y no deben reintroducirse como actividades del Rapid sin una nueva decisión fundamentada:
+Las siguientes líneas pertenecen a la visión de largo plazo y no deben reintroducirse como actividades del Small Grant sin una nueva decisión fundamentada:
 
 - sitio web;
 - aplicación educativa;
@@ -122,6 +122,8 @@ Las siguientes líneas pertenecen a la visión de largo plazo y no deben reintro
 - tutor conversacional;
 - expansión a otras lenguas;
 - estructura institucional amplia.
+
+**Nota:** Estas líneas fueron identificadas como pospuestas en el contexto de la modalidad Rapid Grant. En el contexto Small Grant, permanecen como componentes de la visión de largo plazo, separados de la narrativa ELDP (`DEC-003`).
 
 ## Instrucción para Claude
 
