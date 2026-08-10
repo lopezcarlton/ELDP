@@ -1,7 +1,7 @@
 # ELDP — Bitácora de Trabajo
 
-**Versión:** 1.1  
-**Última actualización:** 2026-08-07
+**Versión:** 1.2  
+**Última actualización:** 2026-08-10
 
 ## Regla
 
@@ -165,6 +165,36 @@ La base de conocimiento quedó preparada para iniciar la exploración del Rapid 
 - Confirmar con ELDP el encaje de Voces de las Nubes en Small Grant.
 - Verificar los criterios de acreditación institucional para Casa de las Ciencias.
 - Definir después el alcance concreto de la propuesta Small Grant.
+
+---
+
+## 2026-08-10 — Reorientación oficial a Small Grant y auditoría de evidencias
+
+**Objetivo:** Sustituir la interpretación provisional del Small Grant por una lectura directa del PDF original de ELDP, y corregir cualquier hecho registrado con el alcance de modalidad equivocado.
+
+**Corrección:**
+
+- La versión 1.0 de `04_ELDP.md` y la versión 1.2 de `08_EVIDENCIAS.md` registraron la lista "lo que ELDP no financia" (incluida la prohibición de financiar la continuación de un proyecto en curso) como aplicable en general. Esa lista pertenece **exclusivamente** a la sección Rapid Grants del documento original (p. 2). La sección Small Grants (p. 3) no contiene una lista equivalente y, en sentido contrario, incluye expresamente "completar un proyecto ya iniciado" entre los usos válidos.
+- El "riesgo de continuación" registrado el 2026-08-03 quedó correctamente identificado para Rapid, pero no puede darse por vigente para Small Grant sobre la base de esta fuente. Su estatus real permanece abierto en `PEN-009`.
+
+**Resultados:**
+
+- `04_ELDP.md` se reescribió como versión 2.0: separa HECHO OFICIAL, ALCANCE DE LA FUENTE e INFERENCIA DE TRABAJO para cada afirmación; incorpora la tabla comparativa de las seis modalidades y las preguntas reformuladas para Small Grant.
+- `05_PROYECTO.md` se reescribió como versión 0.2: duración ampliada a 6-12 meses, presupuesto hasta 10.000 €, nueva sección de marco institucional, y la relación con el trabajo previo reformulada como activo, no como riesgo de continuación.
+- `08_EVIDENCIAS.md` se reescribió como versión 1.3: se introduce la regla de alcance por modalidad, se separan evidencias oficiales ELDP de evidencias del proyecto, se corrige el alcance de EVI-003 a EVI-005, y se añaden EVI-025 a EVI-032.
+- Se limpiaron referencias residuales a "Rapid Grant" en `00_README.md`, `01_DASHBOARD.md` y `10_IDEAS.md` que databan de cuando esa era la modalidad activa.
+
+**Decisiones tomadas:** Ninguna decisión estratégica nueva; se trata de una corrección documental sobre decisiones ya tomadas el 2026-08-07.
+
+**Archivos modificados:** `04_ELDP.md`, `05_PROYECTO.md`, `08_EVIDENCIAS.md`, `09_BITACORA.md`, `00_README.md`, `01_DASHBOARD.md`, `10_IDEAS.md`.
+
+**Tareas completadas:** Auditoría de alcance de modalidad sobre toda la evidencia oficial ELDP.
+
+**Pendientes y siguiente paso:**
+
+- Resolver `PEN-009` (requisitos vigentes del formulario y evaluación de Small Grant).
+- Resolver `PEN-010` (elegibilidad institucional de Casa de las Ciencias).
+- Definir el diseño concreto del proyecto en `05_PROYECTO.md`.
 
 ---
 
