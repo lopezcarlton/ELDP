@@ -1,9 +1,9 @@
 # Small Grant ELDP — Base de Conocimiento del Proyecto
 
 **Archivo:** `00_README.md`  
-**Versión:** 1.0  
+**Versión:** 1.1  
 **Estado:** Activo  
-**Última actualización:** 2026-08-03
+**Última actualización:** 2026-08-19
 
 ---
 
@@ -27,7 +27,7 @@ Todos los documentos de este repositorio cumplen una función específica y debe
 
 Construir una candidatura altamente competitiva al Small Grant del ELDP mediante un proceso sistemático de investigación, consolidación del conocimiento y diseño del proyecto.
 
-La propuesta final será redactada posteriormente utilizando esta Base de Conocimiento como única fuente de verdad.
+La propuesta final será redactada posteriormente utilizando esta Base de Conocimiento como fuente oficial para la candidatura.
 
 ---
 
@@ -39,35 +39,37 @@ No documenta todo el proyecto Voces de las Nubes.
 
 La visión institucional del proyecto únicamente aparece cuando resulta necesaria para comprender el contexto de la candidatura.
 
+El estado lingüístico, pedagógico, metodológico y operativo permanente de Voces de las Nubes se consulta en `lopezcarlton/vocesdelasnubes`. La relación entre ambos repositorios se regula en `11_FUENTES_EXTERNAS_VOCES.md`.
+
 ---
 
 # Principios generales
 
-## 1. Una única fuente de verdad
+## 1. Una única fuente de verdad por materia
 
-Cada tipo de información existe en un único documento.
+Cada tipo de información existe en una única fuente autoritativa.
 
-Nunca debe duplicarse información entre documentos.
+Nunca debe duplicarse información entre documentos o repositorios cuando ambos pretendan describir el mismo estado vigente.
 
-Si una información pertenece a otro archivo, se referencia, pero no se copia.
+Si una información pertenece a otro archivo o repositorio, se referencia, pero no se mantiene aquí una segunda versión como si fuera fuente permanente.
 
 ---
 
 ## 2. Las decisiones no viven en los chats
 
-Toda decisión aprobada debe registrarse en:
+Toda decisión aprobada sobre la candidatura debe registrarse en:
 
 `02_DECISIONES.md`
 
 Los chats son espacios de trabajo.
 
-La Base de Conocimiento es el registro oficial.
+La Base de Conocimiento es el registro oficial de la candidatura.
 
 ---
 
 ## 3. El proyecto no se diseña durante la redacción
 
-La propuesta será redactada únicamente cuando el diseño del proyecto haya sido completamente definido.
+La propuesta será redactada únicamente cuando el diseño del proyecto haya sido suficientemente definido.
 
 La redacción es consecuencia del diseño.
 
@@ -77,7 +79,7 @@ Nunca al revés.
 
 ## 4. Separación entre conocimiento y creatividad
 
-Esta Base de Conocimiento almacena únicamente información consolidada.
+Esta Base de Conocimiento almacena únicamente información consolidada para la candidatura.
 
 Las ideas nuevas viven temporalmente en:
 
@@ -92,6 +94,14 @@ Una idea solamente pasa a formar parte del proyecto cuando existe una decisión 
 Cuando exista una diferencia entre una interpretación previa y la documentación oficial de ELDP, prevalece la documentación oficial.
 
 Las interpretaciones deberán actualizarse en consecuencia.
+
+---
+
+## 6. Voces de las Nubes gobierna el estado del proyecto principal
+
+Cuando la candidatura necesite afirmar el estado de COR001, COR002, metodología, pedagogía, teoría, audio, validación u otros componentes permanentes de Voces de las Nubes, debe consultar `lopezcarlton/vocesdelasnubes`.
+
+Las decisiones de esta candidatura no modifican automáticamente el proyecto principal.
 
 ---
 
@@ -111,6 +121,7 @@ Small Grant ELDP/
 08_EVIDENCIAS.md
 09_BITACORA.md
 10_IDEAS.md
+11_FUENTES_EXTERNAS_VOCES.md
 ```
 
 ---
@@ -127,7 +138,7 @@ Debe leerse primero.
 
 ## 01_DASHBOARD.md
 
-Resume el estado actual del proyecto.
+Resume el estado actual de la candidatura.
 
 Debe responder únicamente:
 
@@ -142,7 +153,7 @@ No contiene conocimiento permanente.
 
 ## 02_DECISIONES.md
 
-Registro oficial de todas las decisiones del proyecto.
+Registro oficial de todas las decisiones de la candidatura.
 
 Una decisión registrada aquí permanece vigente hasta que otra decisión la modifique explícitamente.
 
@@ -193,13 +204,13 @@ Incluye:
 - presupuesto;
 - riesgos.
 
-Este documento se desarrolla únicamente después de completar la fase de diseño.
+Las afirmaciones que dependen del estado de Voces de las Nubes deben verificarse en el repositorio principal antes de consolidarse aquí.
 
 ---
 
 ## 06_BACKLOG.md
 
-Lista de trabajo activa del proyecto.
+Lista de trabajo activa de la candidatura.
 
 Debe mantenerse pequeña.
 
@@ -209,15 +220,13 @@ No más de diez tareas simultáneas.
 
 ## 07_GLOSARIO.md
 
-Define la terminología oficial utilizada por el proyecto.
-
-Toda definición metodológica debe vivir aquí.
+Define la terminología oficial utilizada por la candidatura.
 
 ---
 
 ## 08_EVIDENCIAS.md
 
-Relaciona todas las afirmaciones importantes del proyecto con sus fuentes.
+Relaciona las afirmaciones importantes de la candidatura con sus fuentes.
 
 Cada evidencia debe indicar:
 
@@ -226,11 +235,13 @@ Cada evidencia debe indicar:
 - fuente;
 - documento donde se utiliza.
 
+Cuando la evidencia sea el estado actual de Voces de las Nubes, debe identificarse el repositorio principal y, cuando sea pertinente, la fecha o versión consultada.
+
 ---
 
 ## 09_BITACORA.md
 
-Registro cronológico del proyecto.
+Registro cronológico del trabajo de la candidatura.
 
 Cada sesión de trabajo debe registrar:
 
@@ -250,18 +261,28 @@ Las ideas no forman parte del proyecto hasta que exista una decisión formal.
 
 ---
 
+## 11_FUENTES_EXTERNAS_VOCES.md
+
+Define la frontera de autoridad entre esta candidatura y el repositorio principal de Voces de las Nubes.
+
+Debe consultarse antes de incorporar afirmaciones sobre el estado del proyecto principal.
+
+---
+
 # Jerarquía de fuentes
 
-Cuando dos documentos parezcan estar en conflicto, prevalece el que ocupe la posición más alta en el siguiente orden:
+La jerarquía interna de este repositorio gobierna **la candidatura**:
 
-1. `05_PROYECTO.md` — representa el estado oficial y consolidado del diseño del proyecto. Una vez que una decisión o un dato se incorpora aquí, esta es la versión vigente.
-2. `02_DECISIONES.md` — gobierna todo lo que `05_PROYECTO.md` aún no ha incorporado. Ninguna sección de `05_PROYECTO.md` puede contradecir una decisión activa sin que exista antes una nueva entrada aquí.
-3. `04_ELDP.md` — fija los límites y requisitos externos de la convocatoria. `02_DECISIONES.md` y `05_PROYECTO.md` deben ser compatibles con lo registrado aquí.
-4. `08_EVIDENCIAS.md` — respalda las afirmaciones utilizadas en `05_PROYECTO.md` y `04_ELDP.md`. Las afirmaciones del proyecto deberían estar respaldadas por evidencia registrada aquí o por una fuente oficial claramente identificada.
-5. `03_ASSUMPTIONS.md` — contiene lo que todavía no tiene respaldo suficiente para pasar a `08_EVIDENCIAS.md` o a una decisión.
-6. `10_IDEAS.md` — variantes sin aprobar; no puede citarse como si describiera el proyecto real.
-7. `01_DASHBOARD.md`, `06_BACKLOG.md`, `09_BITACORA.md`, `07_GLOSARIO.md` — documentos operativos o derivados; reflejan el estado de los documentos anteriores, pero no lo definen.
-8. Historial de chats — nunca es fuente vigente una vez que sus conclusiones quedan incorporadas en este repositorio.
+1. `05_PROYECTO.md` — representa el estado oficial y consolidado del diseño de la candidatura, siempre que no contradiga una fuente externa autoritativa sobre una materia que este repositorio no gobierna.
+2. `02_DECISIONES.md` — gobierna todo lo que `05_PROYECTO.md` aún no ha incorporado.
+3. `04_ELDP.md` — fija los límites y requisitos externos de la convocatoria.
+4. `08_EVIDENCIAS.md` — respalda las afirmaciones utilizadas en `05_PROYECTO.md` y `04_ELDP.md`.
+5. `03_ASSUMPTIONS.md` — contiene lo que todavía no tiene respaldo suficiente.
+6. `10_IDEAS.md` — variantes sin aprobar.
+7. `01_DASHBOARD.md`, `06_BACKLOG.md`, `09_BITACORA.md`, `07_GLOSARIO.md` — documentos operativos o derivados.
+8. Historial de chats — nunca es fuente vigente una vez que sus conclusiones quedan incorporadas en el repositorio correspondiente.
+
+**Excepción de autoridad externa:** para el estado de Voces de las Nubes, prevalece `lopezcarlton/vocesdelasnubes` conforme a `11_FUENTES_EXTERNAS_VOCES.md`.
 
 ---
 
@@ -272,9 +293,10 @@ Toda sesión debería seguir el siguiente orden:
 1. Leer el Dashboard.
 2. Revisar las Decisiones vigentes.
 3. Consultar ELDP cuando exista una duda sobre la convocatoria.
-4. Trabajar.
-5. Actualizar la Base de Conocimiento.
-6. Cerrar la sesión.
+4. Si se utilizarán datos sobre el estado de Voces de las Nubes, consultar `11_FUENTES_EXTERNAS_VOCES.md` y el repositorio principal.
+5. Trabajar.
+6. Actualizar la Base de Conocimiento.
+7. Cerrar la sesión.
 
 ---
 
@@ -291,49 +313,41 @@ Responsable de:
 - mantenimiento de la Base de Conocimiento;
 - control de consistencia documental.
 
-No define el proyecto piloto salvo instrucción expresa.
+No define decisiones sustantivas del proyecto salvo instrucción expresa del usuario.
 
 ---
 
 ## Claude
 
-Responsable de:
+Puede participar en:
 
 - exploración de alternativas;
-- diseño del proyecto piloto;
 - desarrollo conceptual;
 - redacción de documentos finales.
 
-Claude debe trabajar utilizando esta Base de Conocimiento como contexto principal.
+Debe trabajar utilizando esta Base de Conocimiento y, cuando corresponda, el repositorio principal de Voces de las Nubes como contexto autoritativo.
 
 ---
 
 # Estado actual del proyecto
 
-Actualmente el proyecto dispone de:
+Actualmente el repositorio dispone de:
 
-- documentación metodológica;
+- documentación metodológica y estratégica para la candidatura;
 - documentos institucionales;
 - análisis de la convocatoria ELDP;
-- principios para el diseño del corpus;
-- backlog inicial;
-- decisiones estratégicas consolidadas.
+- backlog y supuestos;
+- decisiones estratégicas consolidadas;
+- un mapa explícito de autoridad hacia el repositorio principal de Voces de las Nubes.
 
-Todavía no se han definido:
-
-- proyecto piloto;
-- objetivos específicos;
-- actividades;
-- entregables;
-- cronograma;
-- presupuesto.
-
-Estas decisiones se desarrollarán posteriormente y se incorporarán a la Base de Conocimiento una vez aprobadas.
+El diseño sustantivo del Small Grant permanece en desarrollo y debe consolidarse mediante decisiones explícitas.
 
 ---
 
 # Regla fundamental
 
-La Base de Conocimiento constituye la única fuente oficial de verdad del proyecto.
+Esta Base de Conocimiento constituye la fuente oficial de verdad **sobre la candidatura al Small Grant**.
 
-Cuando exista una contradicción entre un chat y estos documentos, prevalecerá siempre la Base de Conocimiento.
+No sustituye al repositorio `lopezcarlton/vocesdelasnubes` como fuente de verdad sobre el proyecto principal.
+
+Cuando exista una contradicción, primero debe determinarse qué repositorio gobierna la materia antes de resolverla.
