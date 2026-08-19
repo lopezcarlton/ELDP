@@ -1,7 +1,7 @@
 # ELDP — Registro de Evidencias
 
-**Versión:** 1.3
-**Última actualización:** 2026-08-10
+**Versión:** 1.4
+**Última actualización:** 2026-08-19
 
 ## Propósito
 
@@ -10,7 +10,8 @@ Este archivo conecta afirmaciones relevantes con fuentes verificables. Una afirm
 ## Tipos de respaldo
 
 - **Fuente oficial ELDP**
-- **Documento interno del proyecto**
+- **Repositorio autoritativo de Voces de las Nubes**
+- **Documento interno histórico**
 - **Fuente bibliográfica externa**
 - **Evidencia de campo**
 - **Aclaración confirmada del solicitante**
@@ -18,7 +19,9 @@ Este archivo conecta afirmaciones relevantes con fuentes verificables. Una afirm
 
 ## Regla de alcance
 
-Toda evidencia procedente de `ELDP_GrantTypeDescriptions.pdf` debe indicar **a qué modalidad pertenece la sección donde aparece**. Un hecho documentado para una modalidad no puede citarse como si aplicara a otra. Esta regla se introduce en la versión 1.3 tras la lectura directa del documento original.
+Toda evidencia procedente de documentación ELDP debe indicar a qué modalidad pertenece. Un hecho documentado para una modalidad no puede citarse como si aplicara a otra.
+
+Toda afirmación sobre el **estado actual** de COR001, COR002, metodología, pedagogía, audio, validación o teoría debe verificarse en `lopezcarlton/vocesdelasnubes` conforme a `11_FUENTES_EXTERNAS_VOCES.md`. Los documentos históricos conservados en este repositorio pueden utilizarse para reconstruir evolución, pero no como fuente automática del estado vigente.
 
 ---
 
@@ -26,57 +29,53 @@ Toda evidencia procedente de `ELDP_GrantTypeDescriptions.pdf` debe indicar **a q
 
 | ID | Afirmación | Alcance | Fuente | Uso previsto | Estado |
 |---|---|---|---|---|---|
-| EVI-001 | Los Rapid Grants apoyan trabajo de campo inicial, vinculación comunitaria, evaluación de viabilidad y recolección preliminar de datos, incluido trabajo de reconocimiento en zonas poco conocidas. | **Rapid Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Contexto histórico de la exploración Rapid | Confirmada — modalidad cerrada |
-| EVI-002 | El monto máximo del Rapid Grant es 5.000 € y la duración máxima seis meses; convocatoria continua, resultado normalmente en dos meses. | **Rapid Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Contexto histórico | Confirmada — modalidad cerrada |
-| EVI-003 | ELDP exige debida diligencia sobre recursos existentes, contexto sociolingüístico y viabilidad ética y práctica. | **Rapid Grant** — la sección Small Grants no reitera este requisito | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Estándar de trabajo interno; no citable como requisito oficial del Small Grant | Confirmada — **alcance corregido en v1.3** |
-| EVI-004 | ELDP no financia propuestas sin potencial de convertirse en un proyecto posterior de documentación. | **Rapid Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Contexto histórico | Confirmada — **alcance corregido en v1.3** |
-| EVI-005 | ELDP no financia la continuación de un proyecto ya en curso ni visitas repetidas a sitios de campo previamente financiados. | **Rapid Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Explicar el cierre de la vía Rapid | Confirmada — **alcance corregido en v1.3** |
-| EVI-021 | ELDP indicó por correo el 2026-08-07 que las dos direcciones consultadas para Rapid Grant —grabar la porción pendiente de COR002 y documentar géneros específicos con un hablante conocido— quedan fuera del alcance del Rapid y deben seguir la vía regular de subvenciones. | **Rapid Grant** | Respuesta de Mandana, ELDP, 2026-08-07, a consulta del 2026-08-04 | Cerrar la vía Rapid Grant | Confirmada |
-| EVI-022 | La descripción oficial de Small Grants permite trabajo de campo, proyectos piloto, completar proyectos ya iniciados y otros objetivos relacionados con documentación; monto máximo 10.000 € y duración de 6-12 meses. | **Small Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Fundamentar la reorientación a Small Grant | Confirmada |
-| EVI-023 | Los fondos se pagan a una institución acreditada administradora, y el PI no puede ser director, propietario o figura equivalente de la institución anfitriona; quedan excluidos directores, fundadores y responsables de administración financiera. | **Small Grant** (cláusula idéntica en IGS, IPF, MDP y LMG) | `ELDP_GrantTypeDescriptions.pdf`, pp. 3-7 | Evaluar estructura institucional | Confirmada |
-| EVI-025 | La lista de exclusiones "lo que no financiamos" aparece **únicamente** en la sección Rapid Grants. La sección Small Grants no contiene una lista equivalente. | Comparación entre secciones | `ELDP_GrantTypeDescriptions.pdf`, pp. 2-3, lectura directa del original | Impedir que restricciones Rapid se apliquen por inercia al diseño Small Grant | Confirmada — **nueva en v1.3** |
-| EVI-026 | Las solicitudes de Small Grant pueden presentarse para evaluar y demostrar la viabilidad de un proyecto mayor, o para emprender investigación preliminar o complementaria destinada a preparar o hacer avanzar la documentación de la lengua. | **Small Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Elegir la figura narrativa central de la propuesta (`05_PROYECTO.md` § 4) | Confirmada — **nueva en v1.3** |
-| EVI-027 | Aunque normalmente se espera experiencia en documentación, trabajo de campo o formación académica adecuada, el propósito declarado del Small Grant es fomentar la innovación, por lo que cualquier persona o grupo con un interés serio en documentar una lengua amenazada es elegible para solicitar. | **Small Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Reforzar la sección de perfil del solicitante | Confirmada — **nueva en v1.3** |
-| EVI-028 | En Small Grant, ELDP recomienda que los registros documentales previos estén archivados y **accesibles para evaluación**, y ofrece asesoría sobre archivo. La formulación "accesibles en un repositorio confiable" corresponde a la sección Rapid Grants. | **Small Grant** (contraste con Rapid) | `ELDP_GrantTypeDescriptions.pdf`, pp. 2-3 | Definir el plan de archivo del material previo | Confirmada — **nueva en v1.3** |
-| EVI-029 | Los proyectos Small Grant normalmente implican viajes de campo. ELDP publica un listado de proyectos financiados en su sitio. | **Small Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Dimensionar actividades; insumo para `PEN-008` | Confirmada — **nueva en v1.3** |
-| EVI-030 | El requisito de que los materiales queden abiertamente accesibles en el Endangered Languages Archive (ELAR) es específico de los Legacy Materials Grants. | **Legacy Materials Grant** | `ELDP_GrantTypeDescriptions.pdf`, p. 7 | Evitar asumir ELAR como obligación del Small Grant | Confirmada — **nueva en v1.3** |
-| EVI-031 | Los Rapid Grants se pagan directamente a la persona beneficiaria y no requieren institución anfitriona; todas las demás modalidades sí la requieren. | Comparación entre modalidades | `ELDP_GrantTypeDescriptions.pdf`, pp. 2-7 | Explicar por qué la elegibilidad institucional aparece solo ahora como cuello de botella | Confirmada — **nueva en v1.3** |
-| EVI-032 | ELDP recibe con especial interés solicitudes de documentadores de las propias comunidades lingüísticas, de académicos y estudiantes locales del país donde se habla la lengua, y de proyectos colaborativos. | **Small Grant** (también enunciado en Rapid y MDP) | `ELDP_GrantTypeDescriptions.pdf`, pp. 2-3, 6 | Fundamentar el encuadre del perfil y de la colaboración | Confirmada — **nueva en v1.3** |
+| EVI-001 | Los Rapid Grants apoyan trabajo de campo inicial, vinculación comunitaria, evaluación de viabilidad y recolección preliminar de datos. | Rapid Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Contexto histórico | Confirmada — modalidad cerrada |
+| EVI-002 | El monto máximo del Rapid Grant es 5.000 € y la duración máxima seis meses. | Rapid Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Contexto histórico | Confirmada — modalidad cerrada |
+| EVI-003 | La sección Rapid exige debida diligencia sobre recursos existentes, contexto sociolingüístico y viabilidad ética y práctica. | Rapid Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Estándar histórico; no citable como requisito Small Grant | Confirmada |
+| EVI-004 | La sección Rapid exige potencial de convertirse en un proyecto posterior de documentación. | Rapid Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Contexto histórico | Confirmada |
+| EVI-005 | La sección Rapid excluye la continuación de un proyecto ya en curso y visitas repetidas a sitios previamente financiados. | Rapid Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 2 | Explicar cierre Rapid | Confirmada |
+| EVI-021 | ELDP indicó por correo el 2026-08-07 que las dos direcciones consultadas para Rapid Grant quedaban fuera de alcance y debían seguir la vía regular. | Rapid Grant | Respuesta de Mandana, 2026-08-07 | Cerrar Rapid | Confirmada |
+| EVI-022 | Small Grants permite trabajo de campo, proyectos piloto, completar proyectos ya iniciados y otros objetivos relacionados con documentación; máximo 10.000 € y duración de 6-12 meses. | Small Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Fundamentar candidatura | Confirmada |
+| EVI-023 | Los fondos se pagan a una institución acreditada administradora y existen restricciones sobre el rol del PI respecto de la institución anfitriona. | Small Grant | `ELDP_GrantTypeDescriptions.pdf`, pp. 3-7 | Estructura institucional | Confirmada |
+| EVI-025 | La lista de exclusiones “lo que no financiamos” aparece en la sección Rapid, no en Small Grants. | Comparación | `ELDP_GrantTypeDescriptions.pdf`, pp. 2-3 | Evitar trasladar restricciones | Confirmada |
+| EVI-026 | Small Grant puede evaluar viabilidad de un proyecto mayor o realizar investigación preliminar/complementaria para hacer avanzar documentación. | Small Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Elegir figura central | Confirmada |
+| EVI-027 | Small Grant fomenta innovación y admite solicitantes con interés serio en documentación, aunque normalmente espera experiencia pertinente. | Small Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Perfil del solicitante | Confirmada |
+| EVI-028 | ELDP recomienda que registros documentales previos estén archivados y accesibles para evaluación. | Small Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Plan de archivo | Confirmada |
+| EVI-029 | Los proyectos Small Grant normalmente implican viajes de campo y ELDP publica proyectos financiados. | Small Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 3 | Dimensionar actividades | Confirmada |
+| EVI-030 | La exigencia de acceso abierto en ELAR corresponde a Legacy Materials Grants, no debe asumirse para Small Grant. | Legacy Materials Grant | `ELDP_GrantTypeDescriptions.pdf`, p. 7 | Evitar falsa obligación | Confirmada |
+| EVI-031 | Rapid Grants se pagan directamente a la persona beneficiaria; las demás modalidades requieren institución anfitriona. | Comparación | `ELDP_GrantTypeDescriptions.pdf`, pp. 2-7 | Explicar cuestión institucional | Confirmada |
+| EVI-032 | ELDP recibe con interés solicitudes de documentadores de las propias comunidades, académicos/estudiantes locales y proyectos colaborativos. | Small Grant y otras modalidades | `ELDP_GrantTypeDescriptions.pdf`, pp. 2-3, 6 | Perfil y colaboración | Confirmada |
 
 ---
 
-## B. Evidencias del proyecto
+## B. Evidencias sobre Voces de las Nubes
 
 | ID | Afirmación | Fuente | Tipo | Uso previsto | Estado |
 |---|---|---|---|---|---|
-| EVI-006 | El trabajo inicial de Voces de las Nubes pasó de listas de frases a una metodología de diseño del corpus. | `DOC002` | Documento interno | Explicar desarrollo metodológico previo | Confirmada |
-| EVI-007 | COR002 contiene 107 conversaciones organizadas en 24 situaciones comunicativas. | `DOC002` | Documento interno | Describir trabajo existente | Confirmada |
-| EVI-008 | El corpus se organiza mediante actos comunicativos, situaciones reales y referentes culturales del Istmo. | `DOC002` | Documento interno | Base metodológica | Confirmada |
-| EVI-009 | La participación de hablantes se considera necesaria para selección y validación cultural y lingüística. | `DOC002` | Documento interno | Participación y metodología | Confirmada |
-| EVI-010 | La versión inicial de Voces de las Nubes se centró en materiales auditivos auténticos, transcripción y traducción para aprendizaje. | `VOCES DE LAS NUBES proyecto Emiliano.pdf` | Documento interno | Explicar origen y evolución del proyecto | Confirmada |
-| EVI-011 | El proyecto ya contempla trabajo de campo mediante sesiones estructuradas con hablantes y grabación de audios. | `VOCES DE LAS NUBES proyecto Emiliano.pdf` | Documento interno | Describir antecedentes | Confirmada |
-| EVI-012 | Ethnologue clasifica el zapoteco del Istmo (ISO 639-3: zai) en EGIDS nivel 5 ("Developing"), no en un nivel de amenaza (6b-8b). | Ethnologue, ficha ZAI | Fuente bibliográfica externa | Matizar el argumento de pertinencia | Confirmada |
-| EVI-013 | La vitalidad del diidxazá varía por municipio; existen localidades con fuerte transmisión y otras con ruptura severa. | Istmopress / Chiapas Paralelo, 2022 | Fuente bibliográfica externa (periodística) | Fundamentar análisis geográficamente acotado | Confirmada, requiere verificación de campo propia |
-| EVI-014 | Existe un estudio académico que comparó sociolingüísticamente Juchitán con otras localidades urbanas del Istmo usando datos de INEGI 2015. | Tesis citada previamente en el proyecto | Fuente bibliográfica externa | Evitar duplicación de trabajo ya hecho | Confirmada |
-| EVI-015 | Entre 2010 y 2015 algunos municipios de la planicie costera dejaron de reportar hablantes de zapoteco. | Tesis citada en EVI-014, con base en INEGI | Fuente bibliográfica externa | Evidencia de pérdida en municipios menores | Confirmada |
-| EVI-016 | Enrique "Guajiro" López no es colaborador formal del proyecto; su papel documentado es el de interlocutor informal que aportó retroalimentación crítica sobre COR002. | `DOC002` y corrección del solicitante del 2026-08-04 | Documento interno / aclaración del solicitante | Evitar presentarlo como integrante formal del equipo | Confirmada |
-| EVI-017 | Vicente Gutiérrez realizó una sola sesión de grabación en Oaxaca capital en junio de 2026; no existen grabaciones adicionales a la fecha. | Informes internos y actualización del solicitante del 2026-08-04 | Evidencia de campo / documento interno | Describir trabajo previo | Confirmada |
-| EVI-018 | Vidal Ramírez fue presentado al proyecto en junio de 2026, pero todavía no ha participado en sesiones de grabación. | Informes internos y actualización del solicitante del 2026-08-04 | Evidencia de campo / documento interno | No presentar participación como iniciada | Confirmada |
-| EVI-019 | La participación de Laura Martínez "Lauris" aún no ha comenzado. | Informes internos y actualización del solicitante del 2026-08-04 | Evidencia de campo / documento interno | No presentarla como colaboradora activa | Confirmada |
-| EVI-020 | Ninguno de los tres hablantes mencionados —Vicente Gutiérrez, Vidal Ramírez y Laura Martínez— ha sido grabado en Juchitán. | Informes internos y actualización del solicitante del 2026-08-04 | Evidencia de campo / documento interno | Delimitar localización del trabajo previo | Confirmada |
-| EVI-024 | Emiliano López Carlton es Asesor Técnico Pedagógico de Casa de las Ciencias y coordinador de Voces de las Nubes; no es director, propietario ni responsable financiero de la institución. | Aclaración confirmada del solicitante, 2026-08-07 | Aclaración confirmada del solicitante | Determinar compatibilidad preliminar con el requisito institucional | Confirmada |
+| EVI-006 | El trabajo de Voces evolucionó desde materiales iniciales de frases hacia una metodología explícita de diseño de corpus. | `lopezcarlton/vocesdelasnubes` + `DOC002` histórico | Repositorio vigente / antecedente | Explicar evolución | Confirmada |
+| EVI-007 | La formulación histórica “COR002 contiene 107 conversaciones organizadas en 24 situaciones” describe una versión previa del trabajo y **no representa el estado vigente de COR002**. El 2026-08-19 COR002 sigue en revisión profunda, sin versión definitiva y sin grabaciones. | `lopezcarlton/vocesdelasnubes`, README/CORPUS; aclaración del solicitante 2026-08-19 | Repositorio autoritativo / aclaración | Evitar usar una fotografía histórica como estado actual | **Corregida en v1.4** |
+| EVI-008 | El corpus se diseña desde situaciones y funciones comunicativas, con reutilización de patrones y revisión continua; su arquitectura sigue evolucionando. | `lopezcarlton/vocesdelasnubes/conocimiento/CORPUS.md` y `METODOLOGIA.md` | Repositorio autoritativo | Base metodológica vigente | Confirmada, evolutiva |
+| EVI-009 | La participación de hablantes es necesaria para naturalidad, significado, pronunciación, uso, variación y validación cultural/lingüística. | `lopezcarlton/vocesdelasnubes/conocimiento/METODOLOGIA.md` | Repositorio autoritativo | Participación y metodología | Confirmada |
+| EVI-010 | La versión inicial de Voces se centró en materiales auditivos, transcripción y traducción para aprendizaje. | `VOCES DE LAS NUBES proyecto Emiliano.pdf` | Documento histórico | Explicar origen | Confirmada como antecedente |
+| EVI-011 | Voces contempla sesiones estructuradas con hablantes y producción de audio como parte de su trabajo. | `lopezcarlton/vocesdelasnubes/conocimiento/METODOLOGIA.md` y `AUDIO.md` | Repositorio autoritativo | Describir metodología | Confirmada |
+| EVI-012 | Ethnologue clasifica el zapoteco del Istmo (zai) como EGIDS 5. | Ethnologue | Fuente externa | Matizar pertinencia | Confirmada |
+| EVI-013 | La vitalidad del diidxazá varía por municipio. | Fuentes periodísticas citadas | Fuente externa | Contexto sociolingüístico | Confirmada con necesidad de mayor verificación |
+| EVI-014 | Existe antecedente académico de comparación sociolingüística multi-localidad usando datos de INEGI 2015. | Tesis citada previamente | Fuente externa | Evitar duplicación | Confirmada |
+| EVI-015 | Algunos municipios de la planicie costera dejaron de reportar hablantes entre 2010 y 2015 según la fuente citada. | Tesis/INEGI | Fuente externa | Evidencia de pérdida | Confirmada |
+| EVI-016 | Enrique “Guajiro” López no es colaborador formal del proyecto; su papel documentado fue de interlocución informal y retroalimentación. | Aclaración del solicitante 2026-08-04 | Aclaración | Evitar atribución incorrecta | Confirmada |
+| EVI-017 | Al 2026-08-04, Vicente Gutiérrez había realizado una sesión de grabación en Oaxaca capital. Este registro es histórico y no debe utilizarse para inferir el estado actual de COR002. | Informes internos / aclaración 2026-08-04 | Evidencia histórica | Antecedente | Confirmada con alcance fechado |
+| EVI-018 | Al 2026-08-04, Vidal Ramírez había sido presentado al proyecto pero no había participado en grabaciones. | Informes internos / aclaración | Evidencia histórica | No sobreatribuir participación | Confirmada con alcance fechado |
+| EVI-019 | Al 2026-08-04, la participación de Laura Martínez “Lauris” no había comenzado. | Informes internos / aclaración | Evidencia histórica | No sobreatribuir participación | Confirmada con alcance fechado |
+| EVI-020 | Al 2026-08-04, ninguno de Vicente, Vidal o Laura había sido grabado en Juchitán. | Informes internos / aclaración | Evidencia histórica | Localización del antecedente | Confirmada con alcance fechado |
+| EVI-024 | Emiliano López Carlton es Asesor Técnico Pedagógico de Casa de las Ciencias y coordinador de Voces de las Nubes; no es director, propietario ni responsable financiero de la institución. | Aclaración 2026-08-07 | Aclaración | Compatibilidad institucional preliminar | Confirmada |
+| EVI-033 | COR001 **no está cerrado** al 2026-08-19. Tiene pendiente revisión ortográfica, correcciones derivadas, regrabaciones necesarias, normalización final y entregas para Anki/audio. | `lopezcarlton/vocesdelasnubes` + aclaración del solicitante 2026-08-19 | Repositorio autoritativo / aclaración | Describir trabajo previo con precisión | Confirmada |
+| EVI-034 | El diseño de COR002, incluida la arquitectura de complejidad dual y el generador, sigue sujeto a cambios derivados de nueva evidencia gramatical y de la revisión de Vicente. | `lopezcarlton/vocesdelasnubes` + aclaración del solicitante 2026-08-19 | Repositorio autoritativo / aclaración | Evitar presentar diseño como cerrado | Confirmada |
 
 ---
 
-## Estado real de hablantes vinculados a COR001/COR002
+## Regla para estado de hablantes y materiales
 
-**Actualización: 2026-08-04**
-
-| Persona | Estado real | Lugar de grabación | Implicación para la propuesta |
-|---|---|---|---|
-| Vicente Gutiérrez | Una sesión realizada en junio de 2026. Sin sesiones adicionales. | Oaxaca capital | Puede citarse como antecedente limitado, no como colaboración de campo sostenida. |
-| Vidal Ramírez | Presentado al proyecto. No ha grabado. | Ninguno | Su participación futura debe tratarse como pendiente de confirmación. |
-| Laura Martínez "Lauris" | Participación no iniciada. | Ninguno | No debe presentarse como colaboradora activa ni comprometida. |
+Las tablas o notas fechadas sobre participantes se conservan como evidencia histórica. Antes de presentar en la candidatura el estado **actual** de una persona, corpus, grabación o material, debe volver a verificarse `lopezcarlton/vocesdelasnubes` y, cuando corresponda, confirmarse directamente con el participante.
 
 ---
 
@@ -84,45 +83,29 @@ Toda evidencia procedente de `ELDP_GrantTypeDescriptions.pdf` debe indicar **a q
 
 | ID | Afirmación necesaria | Evidencia requerida | Prioridad |
 |---|---|---|---|
-| PEN-001 | Situación actual de amenaza y transmisión intergeneracional del diidxazá. | Fuentes sociolingüísticas recientes, oficiales o académicas. | Alta → Parcialmente resuelta; falta verificación actualizada y argumento final |
+| PEN-001 | Situación actual de amenaza y transmisión intergeneracional del diidxazá. | Fuentes sociolingüísticas recientes, oficiales o académicas. | Alta |
 | PEN-002 | Inventario de documentación y recursos existentes. | Archivos, corpus, diccionarios, grabaciones, publicaciones y proyectos previos. | Alta |
 | PEN-003 | Existencia de una brecha documental pertinente para ELDP. | Análisis comparativo del inventario existente. | Alta |
-| PEN-004 | Disposición concreta de participantes y colaboradores para el Small Grant. | Conversaciones, cartas o acuerdos iniciales. | Alta |
+| PEN-004 | Disposición concreta de participantes para el Small Grant. | Conversaciones, cartas o acuerdos iniciales. | Alta |
 | PEN-005 | Experiencia del solicitante relevante para documentación y campo. | CV, proyectos, grabaciones, informes y productos accesibles. | Alta |
-| PEN-006 | Posibilidad de archivo en repositorio confiable y accesibilidad del material previo para evaluación. | Consulta de requisitos y comunicación con repositorio. | Media |
+| PEN-006 | Posibilidad de archivo y accesibilidad del material previo para evaluación. | Consulta de requisitos y comunicación con repositorio. | Media |
 | PEN-007 | Costos reales de trabajo de campo y remuneración. | Cotizaciones y acuerdos. | Alta |
-| PEN-008 | Patrones de alcance de Small Grants aprobados. | Revisión verificable del listado público de proyectos financiados. | Alta |
+| PEN-008 | Patrones de alcance de Small Grants aprobados. | Revisión verificable del listado público. | Alta |
 | PEN-009 | Requisitos actuales del formulario y evaluación de Small Grant. | Formulario vigente, guía, FAQ y políticas oficiales. | Alta |
-| PEN-010 | Voces de las Nubes encaja en Small Grant y Casa de las Ciencias cumple los criterios de institución acreditada administradora. | Respuesta pendiente a ELDP / Mandana y documentación institucional requerida. | Crítica |
+| PEN-010 | Encaje de Voces en Small Grant y elegibilidad institucional de Casa de las Ciencias. | Respuesta de ELDP y documentación institucional. | Crítica |
 
 ## PENs cerrados
 
 | ID | Pregunta | Resolución | Fecha |
 |---|---|---|---|
-| PEN-RG-001 | ¿Aplica Rapid Grant al perfil actual de Voces de las Nubes? | No. ELDP indicó que las direcciones consultadas están fuera del alcance Rapid y corresponden a la vía regular de subvenciones. | 2026-08-07 |
+| PEN-RG-001 | ¿Aplica Rapid Grant al perfil actual de Voces de las Nubes? | No. Las direcciones consultadas corresponden a la vía regular de subvenciones. | 2026-08-07 |
 
 ---
 
-## Fuentes internas disponibles
+## Fuentes internas e interrepositorio disponibles
 
-1. `ELDP_GrantTypeDescriptions.pdf` — 7 pp., leído directamente del original el 2026-08-10.
-2. `DOC002 — Principios de diseño del corpus Voces de las Nubes.pdf`
-3. `VOCES DE LAS NUBES proyecto Emiliano.pdf`
-4. `COR002 — conversaciones básicas.xlsx`
-5. `Estrategia para Rapid Grant.txt` — referencia histórica de la modalidad cerrada.
-6. Informes internos de mayo y junio-julio de 2026.
-7. Respuesta de ELDP/Mandana del 2026-08-07.
-8. Contexto y decisiones consolidadas en este repositorio.
-
-## Regla de uso
-
-Ningún modelo debe convertir una inferencia o un supuesto en afirmación factual. Cuando una sección de la aplicación requiera respaldo, debe citar o remitir a una evidencia registrada aquí, respetando el alcance de modalidad indicado.
-
----
-
-## Registro de cambios
-
-| Versión | Fecha | Cambio |
-|---|---|---|
-| 1.2 | 2026-08-07 | Incorporación de la respuesta oficial de ELDP y del rol institucional |
-| 1.3 | 2026-08-10 | Lectura directa del PDF original. Se introduce la regla de alcance por modalidad y se separan las evidencias oficiales ELDP de las del proyecto. Se corrige el alcance de EVI-003, EVI-004 y EVI-005, que estaban registradas como generales y pertenecen a la sección Rapid Grants. Se añaden EVI-025 a EVI-032. |
+1. `ELDP_GrantTypeDescriptions.pdf`.
+2. `lopezcarlton/vocesdelasnubes` — fuente autoritativa para estado del proyecto principal.
+3. `DOC002 — Principios de diseño del corpus Voces de las Nubes.pdf` — antecedente histórico.
+4. `VOCES DE LAS NUBES proyecto Emiliano.pdf` — antecedente histórico.
+5. `COR002 — conversaciones básicas.xlsx` — material histórico; no representa por sí solo el estado vigente de COR002.
