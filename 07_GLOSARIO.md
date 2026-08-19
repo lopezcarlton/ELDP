@@ -1,11 +1,13 @@
-# Rapid Grant ELDP — Glosario Operativo
+# Small Grant ELDP — Glosario Operativo
 
-**Versión:** 1.0  
-**Última actualización:** 2026-08-03
+**Versión:** 1.1  
+**Última actualización:** 2026-08-19
 
 ## Propósito
 
 Este glosario fija el significado de los términos usados en la base de conocimiento y en la futura aplicación. Las definiciones pueden ampliarse, pero no deben cambiarse silenciosamente durante la redacción.
+
+Las definiciones relativas al estado permanente de Voces de las Nubes deben ser compatibles con `lopezcarlton/vocesdelasnubes` y con `11_FUENTES_EXTERNAS_VOCES.md`.
 
 ## Términos
 
@@ -19,7 +21,7 @@ Repositorio confiable donde los materiales documentales, metadatos y condiciones
 
 ### Base de conocimiento
 
-Conjunto versionado de documentos de este repositorio que constituye la fuente oficial de contexto, decisiones, supuestos, evidencia y estado del proyecto.
+Conjunto versionado de documentos de este repositorio que constituye la fuente oficial de contexto, decisiones, supuestos, evidencia y estado de la candidatura al Small Grant. No sustituye al repositorio principal de Voces de las Nubes para el estado lingüístico, pedagógico, metodológico u operativo permanente del proyecto.
 
 ### Binnizá
 
@@ -31,19 +33,19 @@ Persona hablante o integrante de la comunidad que participa de manera sustantiva
 
 ### Corpus comunicativo
 
-Colección organizada de materiales lingüísticos construida a partir de situaciones y actos comunicativos reales, con criterios explícitos de selección, progresión, diversidad léxica, pertinencia cultural y validación con hablantes.
+Colección organizada de materiales lingüísticos construida a partir de situaciones y actos comunicativos reales, con criterios explícitos de selección, progresión, diversidad léxica, pertinencia cultural y validación con hablantes. La formulación vigente del sistema de corpus se consulta en `lopezcarlton/vocesdelasnubes`.
 
 ### Corpus piloto
 
-Conjunto limitado de materiales producido durante una fase exploratoria para evaluar metodología, condiciones de campo, participación, procesamiento, metadatos, ética y viabilidad de una documentación posterior. Su alcance exacto está pendiente.
+Término operativo para un conjunto limitado de materiales que pudiera producirse dentro de una fase acotada de documentación o evaluación. No constituye por sí mismo una decisión aprobada para la candidatura Small Grant.
 
 ### Debida diligencia
 
-Revisión previa de recursos existentes, investigaciones anteriores, contexto sociolingüístico y condiciones éticas y prácticas, exigida por ELDP en la medida de lo posible antes del trabajo preliminar.
+Revisión previa de recursos existentes, investigaciones anteriores, contexto sociolingüístico y condiciones éticas y prácticas. En este repositorio se utiliza como estándar de trabajo interno; cualquier afirmación de que sea un requisito oficial específico del Small Grant debe apoyarse en la documentación vigente de ELDP.
 
 ### Diidxazá / didxazá
 
-Nombre utilizado en los documentos del proyecto para el zapoteco del Istmo. La grafía y capitalización definitiva deberán mantenerse según el criterio lingüístico y comunitario adoptado.
+Nombre utilizado en los documentos del proyecto para el zapoteco del Istmo. La grafía y capitalización definitiva deberán mantenerse según el criterio lingüístico y comunitario adoptado en Voces de las Nubes.
 
 ### Documentación lingüística
 
@@ -51,11 +53,11 @@ Proceso de crear, describir, preservar y hacer accesibles registros duraderos de
 
 ### Entregable
 
-Producto concreto, verificable y acotado que debe existir al finalizar el proyecto. Para el Rapid debe formularse en términos documentales y de viabilidad, no como visión institucional amplia.
+Producto concreto, verificable y acotado que debe existir al finalizar el proyecto. Para el Small Grant debe formularse en términos coherentes con el diseño aprobado y con los requisitos vigentes de ELDP.
 
 ### Escena comunicativa
 
-Situación breve y culturalmente plausible en la que dos o más participantes realizan acciones comunicativas específicas. En COR002 reemplazó la lógica de listas temáticas como unidad principal de diseño.
+Situación breve y culturalmente plausible en la que dos o más participantes realizan acciones comunicativas específicas. Es una categoría de trabajo desarrollada dentro de Voces de las Nubes; su formulación vigente se consulta en el repositorio principal y no debe congelarse aquí como arquitectura definitiva de COR002.
 
 ### Hablante participante
 
@@ -67,19 +69,23 @@ Información que permite identificar, contextualizar, gestionar y encontrar una 
 
 ### Metodología replicable
 
-Procedimiento suficientemente explícito para ser revisado, adaptado y aplicado en otros ciclos de trabajo o contextos, sin suponer que todas las comunidades o lenguas requieren el mismo diseño.
+Procedimiento suficientemente explícito para ser revisado, adaptado y aplicado en otros ciclos de trabajo o contextos, sin suponer que todas las comunidades o lenguas requieren el mismo diseño. La metodología vigente de Voces de las Nubes es evolutiva y se consulta en el repositorio principal.
 
 ### Participación comunitaria
 
-Intervención real de hablantes y colaboradores en decisiones relevantes, no solo aportación de datos. Su forma concreta debe definirse en el proyecto piloto.
+Intervención real de hablantes y colaboradores en decisiones relevantes, no solo aportación de datos. Su forma concreta dentro del Small Grant está pendiente de definición.
 
 ### Proyecto piloto
 
-Proyecto de alcance limitado que prueba condiciones, procedimientos y viabilidad antes de una fase mayor. En este repositorio el término no está todavía aprobado como descripción oficial del Rapid; se usa de manera operativa hasta definir el diseño.
+Una posible figura de diseño de alcance limitado para probar procedimientos, condiciones o viabilidad antes de una fase posterior. El Small Grant también puede plantearse con un objetivo documental directo; por tanto, «proyecto piloto» no es una descripción obligatoria ni aprobada del proyecto.
 
 ### Rapid Grant
 
-Modalidad de ELDP de hasta 5.000 € y seis meses para trabajo de campo inicial, vinculación comunitaria, evaluación de viabilidad y recolección preliminar de datos con potencial de desarrollo posterior.
+Modalidad de ELDP explorada y descartada para esta candidatura. Se conserva como término histórico porque forma parte de decisiones, evidencias y bitácora previas. No es la modalidad activa.
+
+### Small Grant
+
+Modalidad de ELDP actualmente prioritaria para la candidatura. Según la documentación consolidada en `04_ELDP.md`, admite proyectos de 6 a 12 meses y financiamiento de hasta 10.000 €, sujeto a los requisitos vigentes de ELDP.
 
 ### Soberanía de datos
 
@@ -87,11 +93,11 @@ Principio según el cual las comunidades y participantes conservan capacidad de 
 
 ### Validación con hablantes
 
-Proceso mediante el cual hablantes competentes revisan naturalidad, precisión, pertinencia cultural, traducción, pronunciación, uso y condiciones de incorporación de materiales.
+Proceso mediante el cual hablantes competentes revisan naturalidad, precisión, pertinencia cultural, traducción, pronunciación, uso y condiciones de incorporación de materiales. El procedimiento vigente se consulta en el repositorio principal de Voces de las Nubes.
 
 ### Viabilidad
 
-Evidencia de que un proyecto posterior puede ejecutarse ética, práctica, metodológica, comunitaria, técnica y financieramente; también puede incluir identificación de límites que obliguen a rediseñarlo.
+Capacidad demostrable de ejecutar un proyecto de manera ética, práctica, metodológica, comunitaria, técnica y financiera. Puede ser un objetivo explícito de un Small Grant, pero no es la única figura posible: la modalidad también puede financiar trabajo documental directo o complementario conforme a la documentación vigente de ELDP.
 
 ## Términos que no deben usarse como eje de la aplicación
 
@@ -105,4 +111,4 @@ En documentos institucionales y para ELDP no deben ocupar el centro narrativo:
 - plataforma tecnológica;
 - aplicación educativa.
 
-Pertenecen, en su caso, a la visión de largo plazo y no al alcance actual.
+Pertenecen, en su caso, a la visión de largo plazo y no al alcance actual salvo decisión posterior explícita y compatible con la candidatura.
