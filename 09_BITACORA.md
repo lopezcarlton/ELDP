@@ -1,7 +1,7 @@
 # ELDP — Bitácora de Trabajo
 
-**Versión:** 1.2  
-**Última actualización:** 2026-08-10
+**Versión:** 1.3  
+**Última actualización:** 2026-08-19
 
 ## Regla
 
@@ -174,27 +174,53 @@ La base de conocimiento quedó preparada para iniciar la exploración del Rapid 
 
 **Corrección:**
 
-- La versión 1.0 de `04_ELDP.md` y la versión 1.2 de `08_EVIDENCIAS.md` registraron la lista "lo que ELDP no financia" (incluida la prohibición de financiar la continuación de un proyecto en curso) como aplicable en general. Esa lista pertenece **exclusivamente** a la sección Rapid Grants del documento original (p. 2). La sección Small Grants (p. 3) no contiene una lista equivalente y, en sentido contrario, incluye expresamente "completar un proyecto ya iniciado" entre los usos válidos.
-- El "riesgo de continuación" registrado el 2026-08-03 quedó correctamente identificado para Rapid, pero no puede darse por vigente para Small Grant sobre la base de esta fuente. Su estatus real permanece abierto en `PEN-009`.
+- La versión 1.0 de `04_ELDP.md` y la versión 1.2 de `08_EVIDENCIAS.md` registraron la lista "lo que ELDP no financia" como aplicable en general. Esa lista pertenece exclusivamente a la sección Rapid Grants del documento original.
+- El "riesgo de continuación" registrado el 2026-08-03 quedó correctamente identificado para Rapid, pero no puede darse por vigente para Small Grant sobre la base de esa fuente.
 
 **Resultados:**
 
-- `04_ELDP.md` se reescribió como versión 2.0: separa HECHO OFICIAL, ALCANCE DE LA FUENTE e INFERENCIA DE TRABAJO para cada afirmación; incorpora la tabla comparativa de las seis modalidades y las preguntas reformuladas para Small Grant.
-- `05_PROYECTO.md` se reescribió como versión 0.2: duración ampliada a 6-12 meses, presupuesto hasta 10.000 €, nueva sección de marco institucional, y la relación con el trabajo previo reformulada como activo, no como riesgo de continuación.
-- `08_EVIDENCIAS.md` se reescribió como versión 1.3: se introduce la regla de alcance por modalidad, se separan evidencias oficiales ELDP de evidencias del proyecto, se corrige el alcance de EVI-003 a EVI-005, y se añaden EVI-025 a EVI-032.
-- Se limpiaron referencias residuales a "Rapid Grant" en `00_README.md`, `01_DASHBOARD.md` y `10_IDEAS.md` que databan de cuando esa era la modalidad activa.
+- `04_ELDP.md` se reescribió como versión 2.0.
+- `05_PROYECTO.md` se reorientó formalmente a Small Grant.
+- `08_EVIDENCIAS.md` introdujo la regla de alcance por modalidad.
+- Se limpiaron referencias residuales a Rapid Grant en documentos activos.
 
-**Decisiones tomadas:** Ninguna decisión estratégica nueva; se trata de una corrección documental sobre decisiones ya tomadas el 2026-08-07.
-
-**Archivos modificados:** `04_ELDP.md`, `05_PROYECTO.md`, `08_EVIDENCIAS.md`, `09_BITACORA.md`, `00_README.md`, `01_DASHBOARD.md`, `10_IDEAS.md`.
-
-**Tareas completadas:** Auditoría de alcance de modalidad sobre toda la evidencia oficial ELDP.
+**Decisiones tomadas:** Ninguna decisión estratégica nueva; se trató de una corrección documental.
 
 **Pendientes y siguiente paso:**
 
-- Resolver `PEN-009` (requisitos vigentes del formulario y evaluación de Small Grant).
-- Resolver `PEN-010` (elegibilidad institucional de Casa de las Ciencias).
+- Resolver `PEN-009`.
+- Resolver `PEN-010`.
 - Definir el diseño concreto del proyecto en `05_PROYECTO.md`.
+
+---
+
+## 2026-08-19 — Auditoría cruzada ELDP ↔ Voces de las Nubes
+
+**Objetivo:** Evitar que ELDP mantenga una segunda versión del estado lingüístico, metodológico u operativo de Voces de las Nubes.
+
+**Hallazgos principales:**
+
+- ELDP conservaba como vigente una versión histórica de COR002: 107 conversaciones / 24 situaciones.
+- `02_DECISIONES.md` mantenía `DOC002` como metodología central, aunque la metodología viva ya se encuentra y evoluciona en `lopezcarlton/vocesdelasnubes`.
+- La definición de ELDP como “fuente oficial de contexto” era demasiado amplia y podía entrar en conflicto con el repositorio principal.
+- `10_IDEAS.md` todavía usaba límites heredados del Rapid Grant: seis meses y 5.000 €.
+- COR001 aparecía tratado de manera demasiado cercana a un producto terminado, cuando sigue abierto por revisión ortográfica, regrabaciones, normalización y entregas finales.
+
+**Correcciones realizadas:**
+
+- Se creó `11_FUENTES_EXTERNAS_VOCES.md` y se estableció la frontera de autoridad entre repositorios.
+- `05_PROYECTO.md` dejó de presentar el estado histórico de COR002 como vigente.
+- `DEC-006` fue reemplazada por `DEC-017`: la metodología viva se consulta en Voces de las Nubes.
+- `DEC-010` fue reemplazada por `DEC-018`: ELDP es fuente de verdad de la candidatura, no de todo Voces de las Nubes.
+- `08_EVIDENCIAS.md` corrigió EVI-007 y añadió evidencia explícita sobre el estado abierto de COR001 y el carácter evolutivo de COR002.
+- `03_ASSUMPTIONS.md` reformuló SUP-004 para trabajar con la metodología vigente, no con un bloque histórico estático.
+- `10_IDEAS.md` se actualizó a los parámetros de Small Grant y obliga a verificar el trabajo previo contra Voces.
+
+**Criterio resultante:**
+
+ELDP puede conservar descripciones históricas del trabajo previo, pero toda afirmación sobre el estado actual de COR001, COR002, metodología, pedagogía, audio, validación o teoría debe verificarse en `lopezcarlton/vocesdelasnubes` antes de utilizarse en diseño o redacción.
+
+**Archivos modificados:** `02_DECISIONES.md`, `03_ASSUMPTIONS.md`, `05_PROYECTO.md`, `08_EVIDENCIAS.md`, `09_BITACORA.md`, `10_IDEAS.md`, `11_FUENTES_EXTERNAS_VOCES.md`, además de las reglas cruzadas ya incorporadas en ambos repositorios.
 
 ---
 
