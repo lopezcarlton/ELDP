@@ -1,8 +1,8 @@
 # Small Grant ELDP — Diseño del Proyecto
 
-**Versión:** 0.2
+**Versión:** 0.3
 **Estado:** Esqueleto reorientado a Small Grant. Contenido pendiente de definición.
-**Última actualización:** 2026-08-10
+**Última actualización:** 2026-08-19
 **Modalidad:** ELDP Small Grant — hasta 10.000 €, de 6 a 12 meses (`DEC-009`, `EVI-022`)
 
 ## Instrucción de uso
@@ -10,6 +10,8 @@
 Este archivo contendrá únicamente el diseño aprobado. Durante la exploración, las variantes permanecen en `10_IDEAS.md`. Nada se consolida aquí sin decisión explícita del usuario (`DEC-012`, `DEC-015`).
 
 Mientras las secciones digan "pendiente", este archivo no describe el proyecto: describe el molde que el proyecto debe llenar.
+
+Las afirmaciones sobre el estado actual de Voces de las Nubes deben verificarse en `lopezcarlton/vocesdelasnubes` conforme a `11_FUENTES_EXTERNAS_VOCES.md` antes de utilizarse en la candidatura.
 
 ---
 
@@ -69,14 +71,22 @@ Estado real de los hablantes vinculados al proyecto: ver `08_EVIDENCIAS.md`. Nin
 
 Sección estratégicamente relevante. La descripción oficial del Small Grant incluye entre sus usos válidos completar un proyecto ya iniciado, y la evaluación considera la trayectoria previa en documentación y archivo (`04_ELDP.md`, § Small Grant). El trabajo existente es, por tanto, un activo que debe presentarse con precisión.
 
-### Lo que ya existe
+### Fuente de verdad sobre el trabajo previo
 
-- COR001: primer corpus de frases de uso cotidiano.
-- COR002: 107 unidades reorganizadas en 24 situaciones comunicativas; parcialmente grabado.
-- `DOC002 — Principios de diseño del corpus`: nueve principios de diseño y cinco hallazgos gramaticales y pedagógicos.
-- Una sesión de grabación con Vicente Gutiérrez (Oaxaca capital, junio de 2026).
-- Informes internos de mayo y junio-julio de 2026.
-- Revisión bibliográfica sistematizada.
+El estado vigente de COR001, COR002, metodología, pedagogía, audio, validación y demás componentes de Voces de las Nubes **no se mantiene en este archivo**. Debe consultarse en `lopezcarlton/vocesdelasnubes` conforme a `11_FUENTES_EXTERNAS_VOCES.md`.
+
+Este repositorio puede describir el trabajo previo únicamente en la medida necesaria para la candidatura y debe verificar de nuevo esa descripción antes de redactar o entregar la propuesta.
+
+### Fotografía de trabajo previo relevante a 2026-08-19
+
+- COR001 existe como corpus inicial de 107 frases y continúa abierto en fase de consolidación final; no debe presentarse como producto completamente cerrado.
+- COR002 permanece en revisión profunda y sin versión definitiva. No se ha realizado ninguna grabación de COR002.
+- La metodología, teoría y pedagogía de Voces de las Nubes cuentan con bases documentadas, pero siguen siendo evolutivas.
+- El proyecto continúa incorporando evidencia lingüística y gramatical que puede modificar el diseño de COR002 y de su generador.
+- Existe trabajo previo de grabación y validación con Vicente Gutiérrez correspondiente al desarrollo anterior del proyecto; su alcance exacto debe verificarse en las evidencias y en el repositorio principal antes de describirse en la propuesta.
+- Existe revisión bibliográfica sistematizada y documentación interna del diseño del corpus.
+
+Esta lista es una **fotografía fechada**, no una segunda fuente permanente de verdad.
 
 ### Estado de accesibilidad de ese material
 
@@ -103,7 +113,7 @@ Debe incluir, según el diseño aprobado:
 - consentimiento y niveles de acceso;
 - respaldo y archivo.
 
-Base metodológica obligatoria: `DOC002` (`DEC-006`).
+La metodología permanente de Voces de las Nubes debe consultarse en el repositorio principal. La candidatura deberá distinguir entre esa metodología de base y cualquier adaptación específica adoptada para ELDP.
 
 **Pendiente de definir.**
 
@@ -265,3 +275,4 @@ Estas líneas pertenecen a la visión de largo plazo y permanecen separadas de l
 |---|---|---|
 | 0.1 | 2026-08-03 | Esqueleto inicial para Rapid Grant |
 | 0.2 | 2026-08-10 | Reorientación a Small Grant: 6-12 meses y hasta 10.000 €. Sección 8 reformulada como activo. Nueva sección 19 (marco institucional). Antigua § 4 "pregunta de viabilidad" convertida en § 4 con dos figuras alternativas. Cronograma ampliado a 12 meses. Presupuesto con partidas de procesamiento y archivo. Riesgos vinculados a PEN. Numeración final desplazada: 19→20, 20→21. |
+| 0.3 | 2026-08-19 | Se elimina la copia obsoleta del estado de COR002, se registra una fotografía fechada del trabajo previo y se establece `vocesdelasnubes` como fuente autoritativa para el estado del proyecto principal. |
