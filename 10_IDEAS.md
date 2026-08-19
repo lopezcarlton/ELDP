@@ -1,8 +1,8 @@
-# Small Grant ELDP — Ideas y Variantes del Proyecto Piloto
+# Small Grant ELDP — Ideas y Variantes del Proyecto
 
-**Versión:** 1.0  
-**Última actualización:** 2026-08-03  
-**Estado:** Preparado para trabajar con Claude
+**Versión:** 1.1  
+**Última actualización:** 2026-08-19  
+**Estado:** Activo
 
 ## Propósito
 
@@ -21,22 +21,24 @@ Este archivo es el espacio de lluvia de ideas. Su contenido no constituye decisi
 
 Cada variante debe responder:
 
-1. ¿Cuál es la incertidumbre o problema inicial que resolverá?
-2. ¿Por qué requiere trabajo de campo?
+1. ¿Cuál es la brecha o problema documental que aborda?
+2. ¿Por qué requiere trabajo de campo o producción documental nueva?
 3. ¿Cómo participarán hablantes binnizá?
-4. ¿Qué datos preliminares producirá?
-5. ¿Qué componente de viabilidad evaluará?
-6. ¿Puede ejecutarse en seis meses o menos?
-7. ¿Puede ejecutarse con 5.000 € o menos?
-8. ¿Cómo se distingue del trabajo que ya existe?
-9. ¿Cuál sería el proyecto posterior que sus resultados permitirían diseñar?
+4. ¿Qué datos o materiales documentales producirá?
+5. ¿Se plantea como objetivo documental directo o como trabajo de viabilidad/preparación?
+6. ¿Puede ejecutarse en 6-12 meses?
+7. ¿Puede ejecutarse con un máximo de 10.000 €?
+8. ¿Cómo se relaciona con el trabajo previo sin duplicarlo ni describirlo de forma obsoleta?
+9. ¿Qué valor documental tiene por sí misma?
 10. ¿Su objetivo primario es documentación lingüística?
+11. ¿Qué plan de consentimiento, metadatos, acceso y archivo requiere?
+12. ¿La descripción del trabajo previo fue verificada contra `lopezcarlton/vocesdelasnubes`?
 
 ## Matriz de variantes
 
-| ID | Variante | Estado | Pregunta de viabilidad | Actividades principales | Productos preliminares | Riesgos | Siguiente fase posible |
+| ID | Variante | Estado | Propósito documental | Actividades principales | Productos | Riesgos | Siguiente fase posible |
 |---|---|---|---|---|---|---|---|
-| IDEA-001 | Pendiente de definir con Claude | 💡 Nueva | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
+| IDEA-001 | Pendiente de definir | 💡 Nueva | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
 
 ## Ficha para desarrollar cada idea
 
@@ -46,21 +48,23 @@ Cada variante debe responder:
 
 #### Resumen en una frase
 
-Durante [TIEMPO] se realizará [ACTIVIDAD] con [PARTICIPANTES] para producir [RESULTADOS] y evaluar [VIABILIDAD].
+Durante [6-12 MESES] se realizará [ACTIVIDAD DOCUMENTAL] con [PARTICIPANTES] para producir [MATERIALES] y [HACER AVANZAR / EVALUAR LA VIABILIDAD DE] [OBJETIVO DOCUMENTAL].
 
-#### Problema que aborda
+#### Problema o brecha que aborda
 
 Pendiente.
 
-#### Incertidumbre que resolvería
+#### Propósito documental
 
 Pendiente.
 
 #### Relación con trabajo previo
 
+Antes de llenar esta sección debe consultarse `lopezcarlton/vocesdelasnubes`.
+
 - Qué aprovecha:
 - Qué añade:
-- Por qué no es simple continuación:
+- Qué permanece fuera del Small Grant:
 
 #### Actividades
 
@@ -72,11 +76,11 @@ Pendiente.
 
 Pendiente.
 
-#### Datos y entregables preliminares
+#### Datos y entregables
 
 Pendiente.
 
-#### Ética y archivo
+#### Ética, metadatos y archivo
 
 Pendiente.
 
@@ -96,7 +100,7 @@ Pendiente.
 
 Pendiente.
 
-#### Proyecto posterior habilitado
+#### Siguiente fase posible
 
 Pendiente.
 
@@ -109,9 +113,9 @@ Pendiente.
 
 **Motivo:** Pendiente.
 
-## Ideas pospuestas por principio
+## Líneas de largo plazo separadas de la candidatura
 
-Las siguientes líneas pertenecen a la visión de largo plazo y no deben reintroducirse como actividades del Small Grant sin una nueva decisión fundamentada:
+Las siguientes líneas pertenecen a la visión amplia de Voces de las Nubes y no deben incorporarse al Small Grant solo por existir en el proyecto principal:
 
 - sitio web;
 - aplicación educativa;
@@ -123,8 +127,8 @@ Las siguientes líneas pertenecen a la visión de largo plazo y no deben reintro
 - expansión a otras lenguas;
 - estructura institucional amplia.
 
-**Nota:** Estas líneas fueron identificadas como pospuestas en el contexto de la modalidad Rapid Grant. En el contexto Small Grant, permanecen como componentes de la visión de largo plazo, separados de la narrativa ELDP (`DEC-003`).
+Su exclusión actual responde a la separación de narrativas de `DEC-003`, no a una prohibición general documentada del Small Grant.
 
-## Instrucción para Claude
+## Instrucción de trabajo
 
-Genera varias alternativas realmente distintas, no variaciones superficiales del mismo proyecto. Evalúalas contra `04_ELDP.md`, `02_DECISIONES.md` y `03_ASSUMPTIONS.md`. No conviertas ninguna alternativa en decisión final sin validación explícita del usuario.
+Generar alternativas realmente distintas, no variaciones superficiales del mismo proyecto. Evaluarlas contra `04_ELDP.md`, `02_DECISIONES.md`, `03_ASSUMPTIONS.md` y `11_FUENTES_EXTERNAS_VOCES.md`. No convertir ninguna alternativa en decisión final sin validación explícita del usuario.
