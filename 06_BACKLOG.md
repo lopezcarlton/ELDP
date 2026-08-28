@@ -1,58 +1,55 @@
 # ELDP — Backlog Activo
 
-**Versión:** 1.1  
-**Última actualización:** 2026-08-07
+**Versión:** 2.0  
+**Última actualización:** 2026-08-27
+
+## Estado
+
+**No hay tareas activas.**
+
+La candidatura ELDP 2026 fue cerrada por decisión explícita. No se presentará ninguna solicitud este año.
 
 ## Regla
 
-- Máximo diez tareas activas.
-- Una sola prioridad principal.
-- Una tarea nueva entra solo si desbloquea el envío o desplaza a otra menos importante.
-- Las ideas no aprobadas viven en `10_IDEAS.md`.
+Ningún pendiente heredado de la exploración Rapid Grant o Small Grant de 2026 debe permanecer activo ni reaparecer automáticamente en futuras sesiones.
 
-## Prioridad principal
+Esto incluye, entre otros:
 
-Confirmar que Voces de las Nubes encaja en Small Grant y que Casa de las Ciencias puede administrar la subvención.
+- verificar la institución administradora;
+- confirmar modalidad;
+- diseñar Small Grant para didxazá;
+- revisar proyectos financiados para preparar la solicitud 2026;
+- inventariar recursos con fines de esa candidatura;
+- preparar consentimiento específico para ELDP;
+- definir participantes y lugares de campo para esa solicitud;
+- definir entregables y archivo para esa solicitud;
+- elaborar cronograma y presupuesto;
+- localizar o completar formularios de aplicación;
+- preparar el envío 2026.
 
-## Tareas activas
+Todas esas tareas quedan **cerradas como tareas operativas del ciclo 2026**.
 
-| Prioridad | Tarea | Estado | Bloquea el envío | Resultado esperado |
-|---|---|---|---|---|
-| 🔴 | Confirmar con ELDP el encaje de Voces de las Nubes en Small Grant | Pendiente | Sí | Respuesta escrita que confirme o delimite elegibilidad |
-| 🔴 | Verificar criterios de acreditación institucional para Casa de las Ciencias | Pendiente | Sí | Confirmación de que puede administrar fondos ELDP |
-| 🔴 | Definir alcance exacto del Small Grant | Pendiente | Sí | Proyecto delimitado en 6-12 meses y hasta 10.000 € |
-| 🔴 | Revisar Small Grants financiados por ELDP | Pendiente | Sí | Comparación verificable de alcance, actividades y productos |
-| 🔴 | Inventariar recursos documentales existentes | Pendiente | Sí | Estado del arte y brecha documental claramente definidos |
-| 🔴 | Reunir evidencia suficiente sobre vitalidad y contexto sociolingüístico | En curso | Sí | Argumento geográficamente acotado y verificable |
-| 🟠 | Definir actividades, participantes y lugares de campo | Pendiente | Sí | Plan operativo verificable |
-| 🟠 | Definir entregables, metadatos, archivo y criterios de éxito | Pendiente | Sí | Productos documentales medibles y archivables |
-| 🟠 | Elaborar consentimiento y estrategia ética | Pendiente | Sí | Protocolo compatible con participantes y archivo |
-| 🟠 | Elaborar cronograma y presupuesto | Pendiente | Sí | Proyecto coherente con 6-12 meses y máximo 10.000 € |
+## ELDP no está descartado permanentemente
 
-## PENs cerrados
+El backlog puede reabrirse en 2027 o en un ciclo posterior únicamente si existe una nueva decisión explícita de desarrollar una candidatura.
 
-- **¿Aplica Rapid Grant a nuestro perfil?** → **No.** Cerrado el 2026-08-07 tras respuesta oficial de ELDP.
+Una candidatura futura puede:
 
-## En espera
+- surgir de un Voces de las Nubes más consolidado;
+- centrarse en otra lengua o variedad;
+- constituir un nuevo proyecto de documentación lingüística;
+- utilizar una modalidad ELDP distinta de la explorada en 2026.
 
-Estas tareas no forman parte del backlog activo:
+No debe suponerse de antemano que será Small Grant, Rapid Grant, didxazá, Juchitán o Casa de las Ciencias como institución administradora.
 
-- sitio web;
-- GitHub público del proyecto;
-- figura jurídica propia;
-- consejo asesor;
-- infraestructura institucional amplia;
-- herramientas tecnológicas de largo plazo;
-- expansión a otras lenguas;
-- solicitudes a financiadores tecnológicos;
-- cualquier nueva variante de Rapid Grant, salvo nueva información oficial de ELDP.
+## Condición de reapertura
 
-## Criterio de finalización del backlog
+Antes de añadir cualquier tarea al backlog debe existir una decisión que identifique:
 
-La fase de preparación termina cuando:
+1. el ciclo de aplicación;
+2. la lengua/variedad y comunidad;
+3. la brecha documental;
+4. una modalidad plausible;
+5. una razón estratégica para volver a priorizar ELDP.
 
-1. la elegibilidad de la modalidad y de la institución administradora está confirmada;
-2. `05_PROYECTO.md` está completo y aprobado para Small Grant;
-3. toda afirmación crítica tiene evidencia o está marcada como incertidumbre;
-4. cronograma y presupuesto coinciden con actividades y entregables;
-5. la candidatura puede redactarse sin tomar decisiones nuevas.
+Hasta entonces, **backlog activo = vacío**.
