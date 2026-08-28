@@ -1,7 +1,7 @@
 # ELDP — Decisiones del Proyecto
 
-**Versión:** 1.2  
-**Última actualización:** 2026-08-19
+**Versión:** 1.3  
+**Última actualización:** 2026-08-27
 
 ## Propósito
 
@@ -17,125 +17,135 @@ Este archivo registra decisiones ya tomadas. No contiene ideas, hipótesis ni ta
 
 ## DEC-001 — Diseñar desde la lógica de ELDP
 
-- **Estado:** ACTIVA
-- **Decisión:** La candidatura se diseñará desde la lógica y los límites de la modalidad ELDP elegida, no desde la visión completa de Voces de las Nubes.
-- **Motivo:** El proyecto debe encajar naturalmente en el instrumento de financiamiento.
-- **Consecuencia:** Cada actividad deberá justificarse por su utilidad documental, de campo, ética, comunitaria, de procesamiento o archivo.
+- **Estado:** ACTIVA para cualquier candidatura futura.
+- **Decisión:** Toda candidatura ELDP se diseñará desde la lógica y los límites de la modalidad elegida, no desde la visión completa de Voces de las Nubes.
 
 ## DEC-002 — Proyecto de documentación lingüística
 
-- **Estado:** ACTIVA
-- **Decisión:** La candidatura se presentará como un proyecto de documentación lingüística.
-- **Consecuencia:** La aplicación empleará el lenguaje de trabajo de campo, documentación, colaboración con hablantes, ética, archivo y productos documentales.
+- **Estado:** ACTIVA para cualquier candidatura futura.
+- **Decisión:** Una eventual candidatura ELDP tendrá documentación lingüística como objetivo central.
 
 ## DEC-003 — Separación de narrativas
 
-- **Estado:** ACTIVA
-- **Decisión:** La visión institucional de largo plazo de Voces de las Nubes permanecerá separada de la narrativa específica para ELDP.
-- **Motivo:** La visión completa incluye componentes que exceden una sola convocatoria.
-- **Consecuencia:** El contexto general del proyecto puede informar la candidatura, pero no se incorpora automáticamente a ella.
+- **Estado:** ACTIVA.
+- **Decisión:** La visión institucional de largo plazo de Voces de las Nubes permanecerá separada de cualquier narrativa específica para ELDP.
 
 ## DEC-004 — Restricción editorial institucional
 
-- **Estado:** ACTIVA
-- **Decisión:** En documentos dirigidos a ELDP o a la Casa de las Ciencias no se mencionarán inteligencia artificial, entrenamiento de corpus, síntesis de voz, reconocimiento automático, modelos o herramientas de IA.
-- **Consecuencia:** El encuadre institucional enfatizará trabajo de campo con hablantes binnizá, documentación lingüística, bibliografía, corpus comunicativo, participación comunitaria y metodología replicable.
+- **Estado:** HISTÓRICA / requiere revisión antes de una futura candidatura.
+- **Decisión histórica:** Durante la exploración 2026 se decidió no centrar la narrativa institucional en tecnologías de IA.
+- **Nota:** No debe reutilizarse automáticamente en un futuro formulario; cualquier requisito vigente de declaración de herramientas debe verificarse en el ciclo correspondiente.
 
 ## DEC-005 — Innovación metodológica
 
-- **Estado:** ACTIVA
-- **Decisión:** El aporte distintivo de la candidatura se describirá como metodológico, no tecnológico.
-- **Motivo:** La candidatura debe sostenerse por su valor documental y metodológico.
-- **Consecuencia:** La tecnología no será el argumento central de pertinencia o novedad.
+- **Estado:** ACTIVA como principio general.
+- **Decisión:** El valor de una candidatura ELDP debe sostenerse por su contribución documental y metodológica, no por tecnología.
 
 ## DEC-006 — Documento metodológico central
 
-- **Estado:** REEMPLAZADA por DEC-017
+- **Estado:** REEMPLAZADA por DEC-017.
 - **Decisión histórica:** `DOC002 — Principios de diseño del corpus Voces de las Nubes` fue adoptado como base metodológica principal durante la fase inicial de diseño ELDP.
-- **Motivo del reemplazo:** La metodología de Voces de las Nubes ha seguido evolucionando y ya no puede representarse mediante un documento estático conservado en ELDP.
 
-## DEC-007 — El Rapid Grant no se solicitará
+## DEC-007 — Rapid Grant no solicitado para el trabajo didxazá 2026
 
-- **Estado:** ACTIVA
-- **Decisión:** No se aplicará a Rapid Grant.
-- **Motivo:** Tras explorar múltiples variantes y consultar directamente a ELDP el 2026-08-04, la respuesta oficial recibida el 2026-08-07 indicó que las direcciones consultadas quedan fuera del alcance del Rapid Grant y deben seguir la vía regular de subvenciones.
-- **Consecuencia:** Rapid Grant deja de formar parte de la ruta crítica del proyecto.
+- **Estado:** ACTIVA con alcance histórico específico.
+- **Decisión:** No se solicitará Rapid Grant para adaptar el trabajo ya iniciado de Voces de las Nubes en didxazá durante el ciclo 2026.
+- **Motivo:** La consulta directa con ELDP indicó que las variantes planteadas correspondían a trabajo ya en curso y no al propósito exploratorio del Rapid Grant.
+- **Aclaración:** Esta decisión **no prohíbe** una futura solicitud Rapid Grant para otra lengua, comunidad o proyecto genuinamente exploratorio.
 
-## DEC-008 — Inferencia sobre Juchitán y Rapid Grant
+## DEC-008 — Juchitán y Rapid Grant 2026
 
-- **Estado:** ACTIVA
-- **Decisión:** La interpretación actual es que el criterio de primer contacto / territorio genuinamente inexplorado hace muy improbable que una variante del proyecto en Juchitán sea elegible para Rapid Grant.
-- **Consecuencia:** No se continuará diseñando nuevas variantes Rapid para Juchitán salvo nueva información oficial.
+- **Estado:** ACTIVA con alcance histórico específico.
+- **Decisión:** No se continuarán diseñando variantes Rapid para Juchitán a partir del trabajo didxazá ya iniciado.
 
 ## DEC-009 — Small Grant como vía prioritaria
 
-- **Estado:** ACTIVA
-- **Decisión:** La ruta de financiamiento prioritaria pasa a ser ELDP Small Grant.
-- **Motivo:** La descripción oficial permite trabajo de campo, proyectos piloto, completar proyectos ya iniciados y otros objetivos relacionados con documentación.
-- **Consecuencia:** La planificación se orienta a una candidatura Small Grant de hasta 10.000 € y 6-12 meses.
+- **Estado:** REEMPLAZADA por DEC-019.
+- **Decisión histórica:** En agosto de 2026 Small Grant pasó provisionalmente a ser la vía prioritaria después del cierre de Rapid para didxazá.
 
 ## DEC-010 — Base de conocimiento como fuente de verdad
 
-- **Estado:** REEMPLAZADA por DEC-018
-- **Decisión histórica:** Este repositorio fue definido como fuente oficial de contexto compartida entre el usuario, ChatGPT y Claude.
-- **Motivo del reemplazo:** La formulación era demasiado amplia y podía convertir a ELDP en una segunda fuente de verdad sobre el estado del proyecto Voces de las Nubes.
+- **Estado:** REEMPLAZADA por DEC-018.
 
 ## DEC-011 — División de responsabilidades entre modelos
 
-- **Estado:** ACTIVA
-- **Decisión:** ChatGPT consolidará fuentes, decisiones, evidencia y consistencia. Claude puede utilizarse para exploración y redacción cuando corresponda.
-- **Consecuencia:** Las decisiones creativas no se consideran cerradas hasta quedar registradas en la base de conocimiento correspondiente.
+- **Estado:** ACTIVA.
+- **Decisión:** ChatGPT consolidará fuentes, decisiones, evidencia y consistencia. Otros modelos pueden utilizarse para exploración y redacción cuando corresponda.
 
 ## DEC-012 — Las ideas no son decisiones
 
-- **Estado:** ACTIVA
-- **Decisión:** Toda variante creativa se registra primero en `10_IDEAS.md`.
-- **Consecuencia:** Solo las variantes aprobadas pasan a `02_DECISIONES.md` y `05_PROYECTO.md`.
+- **Estado:** ACTIVA.
+- **Decisión:** Las variantes creativas no se consideran aprobadas hasta registrarse formalmente como decisión.
 
 ## DEC-013 — Backlog limitado
 
-- **Estado:** ACTIVA
-- **Decisión:** El backlog tendrá un máximo de diez tareas activas y una única prioridad principal.
-- **Consecuencia:** Una nueva tarea solo entra si es más importante que alguna de las existentes o si desbloquea el envío.
+- **Estado:** ACTIVA.
+- **Decisión:** El backlog solo contiene tareas de una candidatura activa. Si no existe candidatura activa, el backlog permanece vacío.
 
 ## DEC-014 — No inventar comparaciones
 
-- **Estado:** ACTIVA
-- **Decisión:** No se afirmarán patrones sobre subvenciones ELDP financiadas sin haber realizado una revisión comparativa verificable.
-- **Consecuencia:** Toda comparación de proyectos aprobados debe estar respaldada por fuentes verificables.
+- **Estado:** ACTIVA.
+- **Decisión:** No se afirmarán patrones sobre subvenciones ELDP financiadas sin revisión verificable.
 
 ## DEC-015 — No redactar antes de diseñar
 
-- **Estado:** ACTIVA
-- **Decisión:** La aplicación final no se redactará hasta haber definido alcance, actividades, productos, ética, cronograma y presupuesto.
-- **Consecuencia:** La redacción será la traducción de un diseño ya aprobado, no el lugar donde se improvise el proyecto.
+- **Estado:** ACTIVA para cualquier candidatura futura.
+- **Decisión:** Una aplicación final solo se redactará cuando el proyecto documental correspondiente esté definido.
 
-## DEC-016 — Rol institucional confirmado
+## DEC-016 — Rol institucional de Emiliano López Carlton
 
-- **Estado:** ACTIVA
+- **Estado:** ACTIVA como hecho sobre Voces de las Nubes.
 - **Decisión:** Emiliano López Carlton es Asesor Técnico Pedagógico de Casa de las Ciencias y coordinador de Voces de las Nubes; no es director, propietario ni responsable financiero de la institución.
-- **Consecuencia:** La acreditación de Casa de las Ciencias y la elegibilidad institucional deben verificarse directamente con ELDP.
+- **Nota:** No existe actualmente necesidad operativa de resolver la elegibilidad de Casa de las Ciencias como host ELDP porque no hay candidatura activa.
 
 ## DEC-017 — La metodología viva se consulta en Voces de las Nubes
 
-- **Estado:** ACTIVA
-- **Decisión:** La metodología general, arquitectura del corpus, pedagogía, teoría, validación y estado de COR001/COR002 se consultarán en `lopezcarlton/vocesdelasnubes` antes de utilizarlos en la candidatura.
-- **Motivo:** Estos componentes evolucionan dentro del proyecto principal y no deben congelarse en ELDP.
-- **Consecuencia:** `DOC002` y otros documentos históricos pueden citarse como antecedentes fechados, pero no como representación automática del estado vigente.
+- **Estado:** ACTIVA.
+- **Decisión:** La metodología general, arquitectura del corpus, pedagogía, teoría, validación y estado de COR001/COR002 se consultarán en `lopezcarlton/vocesdelasnubes`.
 
 ## DEC-018 — Alcance de la fuente de verdad ELDP
 
-- **Estado:** ACTIVA
-- **Decisión:** Este repositorio es la fuente de verdad de la candidatura ELDP, no del proyecto Voces de las Nubes en su conjunto.
-- **Consecuencia:** Para requisitos, estrategia, diseño financiable, presupuesto, cronograma y decisiones de la candidatura prevalece ELDP. Para el estado lingüístico, metodológico, pedagógico y operativo de Voces prevalece `lopezcarlton/vocesdelasnubes`, conforme a `11_FUENTES_EXTERNAS_VOCES.md`.
+- **Estado:** ACTIVA.
+- **Decisión:** Este repositorio conserva la historia, evidencia y decisiones relativas a ELDP; no es la fuente de verdad del proyecto Voces de las Nubes en su conjunto.
+
+## DEC-019 — No aplicar a ELDP en 2026
+
+- **Estado:** ACTIVA.
+- **Fecha:** 2026-08-27.
+- **Decisión:** No se presentará ninguna candidatura ELDP durante 2026.
+- **Motivo:** La exploración realizada mostró que ELDP prioriza fuertemente documentación de lenguas altamente amenazadas y escasamente documentadas. El didxazá posee documentación previa considerable y la fase actual de Voces de las Nubes no justifica seguir consumiendo recursos en una candidatura con baja prioridad competitiva dentro de ese programa.
+- **Consecuencia:** Se cierra toda ruta crítica, diseño, presupuesto, cronograma, preparación institucional y formulario asociados al ciclo 2026.
+
+## DEC-020 — ELDP permanece abierto como posibilidad futura
+
+- **Estado:** ACTIVA.
+- **Fecha:** 2026-08-27.
+- **Decisión:** El cierre de 2026 no constituye una renuncia permanente a ELDP.
+- **Consecuencia:** La posibilidad podrá reabrirse en 2027 o posteriormente mediante una nueva decisión explícita y una evaluación desde cero de la modalidad, requisitos y contexto vigentes.
+
+## DEC-021 — Una futura candidatura puede centrarse en otra lengua
+
+- **Estado:** ACTIVA.
+- **Fecha:** 2026-08-27.
+- **Decisión:** Una futura candidatura ELDP no tiene que estar centrada en didxazá ni ser continuación del diseño Small Grant 2026. Puede surgir como un nuevo proyecto de documentación de otra lengua o variedad más amenazada y menos documentada.
+- **Condición:** La elección futura deberá responder a una necesidad documental real, relación comunitaria ética y viabilidad propia; no se seleccionará una lengua únicamente para acceder a financiamiento.
+- **Relación con Voces de las Nubes:** La experiencia obtenida en un futuro proyecto documental podría eventualmente enriquecer la metodología o expansión de Voces de las Nubes cuando sea pertinente, sin confundir ambos objetos.
+
+## DEC-022 — Voces de las Nubes continúa fuera de ELDP 2026
+
+- **Estado:** ACTIVA.
+- **Fecha:** 2026-08-27.
+- **Decisión:** El cierre de la candidatura ELDP no suspende ni redefine Voces de las Nubes. El proyecto continúa según sus propias prioridades en `lopezcarlton/vocesdelasnubes`.
 
 ---
 
-## Camino cerrado
+## Estado de caminos
 
-**Rapid Grant — cerrado el 2026-08-07.**  
-No reabrir como opción estratégica salvo nueva información oficial de ELDP.
+- **ELDP 2026:** CERRADO sin candidatura.
+- **Rapid Grant para adaptar el trabajo didxazá ya iniciado:** CERRADO.
+- **Small Grant didxazá 2026:** CERRADO.
+- **ELDP 2027 o posterior:** ABIERTO como posibilidad, sin modalidad, lengua ni proyecto definidos.
 
-## Decisiones todavía no tomadas
+## Regla
 
-No se registran aquí. Se encuentran en `01_DASHBOARD.md`, `03_ASSUMPTIONS.md`, `06_BACKLOG.md` y `10_IDEAS.md`.
+Ninguna tarea de la candidatura 2026 debe reactivarse automáticamente. Una futura exploración comienza con una nueva decisión y un nuevo diagnóstico.
