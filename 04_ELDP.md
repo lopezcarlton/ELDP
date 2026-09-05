@@ -1,244 +1,171 @@
-# ELDP — Contexto Oficial Consolidado (Small Grant)
+# ELDP — Contexto Consolidado
 
-**Versión:** 2.0
-**Última actualización:** 2026-08-10
-**Fuente principal:** `ELDP_GrantTypeDescriptions.pdf` (7 pp.), lectura directa del original
-**Fuente complementaria:** respuesta de Mandana, ELDP, 2026-08-07 (`EVI-021`)
+**Versión:** 3.0  
+**Última actualización:** 2026-09-04  
+**Estado:** CONOCIMIENTO DE REFERENCIA — no existe candidatura activa
 
 ## Regla de lectura
 
-Este documento separa tres niveles:
+Este documento conserva lo aprendido sobre ELDP durante 2026. No describe una candidatura vigente y no debe utilizarse como sustituto de la documentación oficial de un ciclo futuro.
 
-- **HECHO OFICIAL:** información expresada por ELDP en una fuente identificable.
-- **ALCANCE DE LA FUENTE:** a qué modalidad pertenece cada hecho. No se traslada un hecho de una modalidad a otra.
-- **INFERENCIA DE TRABAJO:** consecuencia razonable para la candidatura, sujeta a revisión.
+Distingue:
 
-Ninguna inferencia puede citarse como requisito oficial.
+- **HECHO OFICIAL DOCUMENTADO:** información tomada de documentos o comunicaciones identificables de ELDP.
+- **APRENDIZAJE DE REUNIÓN:** reconstrucción de lo explicado en la reunión colectiva de orientación de agosto de 2026; útil para estrategia, pero no equivalente a una cita textual ni a una regla formal publicada.
+- **DECISIÓN ESTRATÉGICA:** consecuencia adoptada por el proyecto.
 
----
+## Estado actual
 
-## Corrección respecto a la versión 1.0
+- **Candidatura 2026:** cerrada sin envío.
+- **Modalidad activa:** ninguna.
+- **Lengua activa para ELDP:** ninguna.
+- **Backlog de candidatura:** vacío.
+- **Posible reapertura:** 2027 o después, mediante nuevo diagnóstico.
 
-La versión 1.0 de este archivo registró bajo el encabezado general "Lo que ELDP no financia" una lista que en el documento original aparece **únicamente dentro de la sección Rapid Grants** (p. 2). Esa lista incluye la prohibición de financiar la continuación de un proyecto en curso y las visitas repetidas a sitios de campo ya financiados.
+## 1. Rapid Grant — conocimiento conservado
 
-La sección Small Grants (p. 3) **no contiene esa lista** y, en sentido contrario, menciona expresamente entre los usos válidos de la modalidad el completar un proyecto ya iniciado.
+### Hechos documentados
 
-Consecuencia: el "riesgo de continuación" que la bitácora registró el 2026-08-03 estaba correctamente identificado para Rapid, pero **no puede darse por vigente para Small Grant** sobre la base de esta fuente. Su estatus real queda abierto en `PEN-009`.
+Según `ELDP_GrantTypeDescriptions.pdf` consultado en 2026:
 
----
+- apoya trabajo de campo inicial para evaluar viabilidad de un proyecto documental;
+- puede apoyar vinculación inicial con una comunidad y recolección preliminar de datos;
+- puede apoyar survey lingüístico donde la situación es pobremente conocida;
+- máximo 5.000 €;
+- duración máxima seis meses;
+- pago directo al grantee; no requiere institución host;
+- exige debida diligencia sobre recursos existentes, contexto sociolingüístico y viabilidad ética/práctica;
+- no financia continuación de un proyecto ya en curso ni visitas repetidas a sitios previamente financiados.
 
-## Small Grant — modalidad objetivo
+### Consulta directa 2026-08-07
 
-### HECHO OFICIAL — propósito y alcance
+La respuesta de ELDP a las variantes planteadas para didxazá indicó que:
 
-**Alcance de la fuente:** `ELDP_GrantTypeDescriptions.pdf`, p. 3, sección Small Grants (SG).
+- grabar trabajo pendiente de COR002 no encajaba como Rapid;
+- documentar géneros específicos dentro de un proyecto ya iniciado tampoco encajaba como Rapid;
+- esas direcciones debían seguir una vía regular de subvenciones.
 
-Los Small Grants apoyan una variedad de actividades de documentación de lenguas amenazadas. Sus usos declarados incluyen:
+### Consecuencia
 
-- realizar trabajo de campo;
-- desarrollar un proyecto piloto;
-- **completar un proyecto ya iniciado**;
-- otros objetivos relacionados con documentación.
+Rapid Grant quedó cerrado **para adaptar el trabajo didxazá ya iniciado en 2026**.
 
-Las solicitudes pueden presentarse para:
+Esto no bloquea un futuro Rapid Grant para otra lengua, comunidad o situación genuinamente exploratoria.
 
-- evaluar y demostrar la viabilidad de un proyecto de mayor escala;
-- emprender investigación preliminar o complementaria destinada a preparar o hacer avanzar la documentación de la lengua amenazada.
+## 2. Small Grant — conocimiento conservado
 
-El documento señala que los proyectos Small Grant normalmente implican viajes de campo.
+### Hechos documentados
 
-### HECHO OFICIAL — límites administrativos
+Según la documentación consultada en 2026:
 
-**Alcance de la fuente:** ídem.
+- máximo 10.000 €;
+- duración de 6 a 12 meses;
+- puede apoyar trabajo de campo, proyectos piloto, completar proyectos ya iniciados y otros objetivos documentales;
+- puede servir para evaluar viabilidad de un proyecto mayor o hacer avanzar documentación mediante investigación preliminar/complementaria;
+- normalmente implica viajes de campo;
+- se espera experiencia pertinente, aunque la modalidad admite perfiles diversos con interés serio en documentación;
+- los materiales documentales previos son relevantes para evaluar trayectoria;
+- requiere institución administradora acreditada;
+- el PI no puede ser director, propietario, fundador o responsable financiero equivalente de la institución host.
 
-- **Monto máximo:** 10.000 €.
-- **Duración:** de 6 a 12 meses.
-- **Viajes de campo:** normalmente involucrados.
-- **Ejemplos de proyectos financiados:** listado público de proyectos ELDP (`http://www.eldp.net/en/our+projects/projects+list/`).
-- **Recepción y plazos de resolución:** no especificados en esta fuente → `PEN-009`.
+### Alcance histórico
 
-### HECHO OFICIAL — quién puede solicitar
+Small Grant fue considerado provisionalmente como vía prioritaria después del cierre de Rapid para didxazá, pero **esa prioridad fue reemplazada por la decisión de no aplicar en 2026**.
 
-**Alcance de la fuente:** ídem.
+## 3. Aprendizajes de la reunión colectiva de orientación — agosto 2026
 
-- ELDP acepta documentadores de cualquier nacionalidad para proyectos en cualquier parte del mundo.
-- Normalmente se espera experiencia en documentación lingüística, trabajo de campo o formación académica adecuada.
-- **No obstante**, dado que el propósito del Small Grant es fomentar la innovación, cualquier persona o grupo con un interés serio en documentar una lengua amenazada es elegible para solicitar.
-- ELDP invita a consultar directamente dudas sobre elegibilidad.
+**Fuente:** reconstrucción del usuario a partir de la reunión colectiva. No se dispone de transcripción textual validada.
 
-### HECHO OFICIAL — prioridades de participación
+### Prioridad competitiva de ELDP
 
-**Alcance de la fuente:** ídem.
+La reunión dejó claro que ELDP prioriza de manera muy fuerte lenguas para las que existe poca o ninguna documentación y cuya situación de peligro hace urgente crear registros.
 
-ELDP recibe con especial interés solicitudes de:
+La consecuencia estratégica observada fue que una lengua ampliamente documentada compite en desventaja frente a lenguas igualmente o más amenazadas que carecen de registros.
 
-- documentadores pertenecientes a las propias comunidades lingüísticas;
-- académicos y estudiantes locales del país donde se habla o signa la lengua;
-- proyectos colaborativos.
+Varios participantes plantearon casos de lenguas con cierta documentación y recibieron respuestas en la misma dirección general: para competir tendría que existir una contribución documental realmente distinta y significativa, pero la urgencia y falta de documentación pesan fuertemente en la priorización.
 
-### HECHO OFICIAL — historial previo y archivo
+### Didxazá
 
-**Alcance de la fuente:** ídem.
+La conclusión del proyecto no es que el didxazá sea formalmente inelegible, sino que **su situación competitiva dentro de ELDP es débil frente a lenguas mucho menos documentadas**.
 
-- Quien ya haya realizado trabajo de campo o documentación será evaluado también por su trayectoria en documentación y archivo.
-- Si existen registros documentales previos —grabaciones de audio o video, transcripciones, traducciones, anotaciones, bases léxicas o listas de palabras— ELDP recomienda asegurarse de que estén archivados y **accesibles para evaluación**.
-- ELDP ofrece asesoría sobre archivo de materiales a quien la solicite.
+Por ello se decidió no seguir invirtiendo tiempo en construir una candidatura ELDP 2026 alrededor de didxazá.
 
-Nota de precisión: la formulación de la sección Small Grant es "accesibles para evaluación". La formulación "accesibles en un repositorio confiable" corresponde a la sección Rapid Grants. La diferencia no debe borrarse al redactar.
+### Documentación vs. revitalización
 
-### HECHO OFICIAL — institución administradora y figura del PI
+La reunión reforzó que ELDP financia **documentación lingüística**, no proyectos cuyo objetivo central sea revitalización.
 
-**Alcance de la fuente:** ídem. La misma cláusula aparece en IGS, IPF, MDP y LMG.
+Para el proyecto, esto significa distinguir claramente:
 
-- Todos los fondos se pagan a una **institución acreditada** que administra la subvención.
-- Por razones de rendición de cuentas, el Investigador Principal **no puede ser director, propietario o figura equivalente** de la institución anfitriona.
-- Se excluye explícitamente a directores, fundadores y responsables de la administración financiera de la institución anfitriona.
+- **documentación:** creación de registros duraderos y reutilizables de una lengua en uso, con grabación, transcripción, traducción, anotación, metadatos, consentimiento y archivo;
+- **revitalización / pedagogía:** aprendizaje, transmisión, materiales educativos, herramientas para uso comunitario y continuidad lingüística.
 
-### INFERENCIA DE TRABAJO
+La documentación puede posteriormente servir a procesos de revitalización, pero esa no debe ser la finalidad primaria del grant ELDP.
 
-1. La trayectoria previa del proyecto —COR001, COR002, `DOC002`, sesión con Vicente Gutiérrez, informes bimestrales— **puede presentarse como activo**, no como pasivo. La modalidad admite completar trabajo iniciado y valora el historial de documentación y archivo.
-2. Aun así, no conviene formular la propuesta como simple prolongación del trabajo existente. Los criterios de evaluación del Small Grant no están documentados en esta fuente (`PEN-009`) y el valor documental nuevo debe quedar explícito por mérito propio.
-3. El perfil del solicitante —académico local del país donde se habla la lengua, proyecto colaborativo con hablantes binnizá— coincide con las prioridades declaradas. Debe hacerse visible, no darse por supuesto.
-4. La cláusula del PI no descalifica a Emiliano por razón de su cargo (`DEC-016`), pero la acreditación de Casa de las Ciencias sigue abierta (`SUP-007`, `PEN-010`).
-5. El requisito de accesibilidad de materiales previos debe traducirse en una decisión concreta de archivo antes de redactar (`SUP-009`, `PEN-006`).
+### Archivo y aplicación
 
----
+La reunión también mostró una brecha de preparación del equipo respecto a:
 
-## Debida diligencia
+- ubicación y uso de los formularios/portal de aplicación;
+- importancia específica del archivo lingüístico y del ecosistema ELAR;
+- necesidad de verificar directamente la documentación primaria antes de reuniones o envíos.
 
-### HECHO OFICIAL
+Esto se conserva como aprendizaje metodológico para cualquier futura candidatura.
 
-**Alcance de la fuente:** `ELDP_GrantTypeDescriptions.pdf`, p. 2, sección **Rapid Grants**.
+## 4. Lección estratégica principal de 2026
 
-Las solicitudes Rapid deben demostrar debida diligencia respecto de la lengua a documentar: investigación previa sobre recursos existentes, contexto sociolingüístico y viabilidad ética y práctica, en la medida de lo posible.
+No adaptar artificialmente Voces de las Nubes a una convocatoria cuya lógica prioritaria es otra.
 
-**La sección Small Grants no reitera este requisito en términos explícitos.**
+Una futura vía ELDP puede tener sentido si existe:
 
-### INFERENCIA DE TRABAJO
+- una lengua/variedad mucho más amenazada y escasamente documentada;
+- una comunidad con la que pueda establecerse una relación ética;
+- una brecha documental real;
+- una pregunta o proyecto que encaje naturalmente en Rapid, Small u otra modalidad vigente.
 
-La ausencia de una formulación explícita no autoriza a omitir la debida diligencia. Una propuesta de documentación sin inventario de recursos existentes ni contexto sociolingüístico sería débil en cualquier modalidad. Se mantiene como estándar de trabajo interno:
+## 5. Exploración breve de otra lengua: chocholteco/ngiba-ngigua
 
-1. inventario de recursos existentes (`PEN-002`);
-2. fuentes actuales sobre vitalidad y transmisión, geográficamente acotadas (`PEN-001`);
-3. descripción transparente del trabajo previo;
-4. estrategia de consentimiento, acceso y archivo;
-5. explicación del valor documental que añade el nuevo trabajo (`PEN-003`).
+Tras la reunión se consideró preliminarmente el chocholteco como posible caso futuro por su alto nivel de riesgo y menor documentación relativa.
 
-Verificar en la guía y el formulario vigentes si el requisito se enuncia formalmente para Small Grant (`PEN-009`).
+No se abrió candidatura ni se tomó decisión de aplicar.
 
----
+La idea queda únicamente como antecedente de que una futura propuesta ELDP **podría centrarse en otra lengua**, no como proyecto activo ni como preferencia comprometida.
 
-## Lo que ELDP declara no financiar
+## 6. Reglas para una reapertura futura
 
-### HECHO OFICIAL
+Antes de reactivar ELDP debe verificarse desde cero:
 
-**Alcance de la fuente:** `ELDP_GrantTypeDescriptions.pdf`, p. 2, sección **Rapid Grants** exclusivamente.
+1. documentación oficial vigente;
+2. formularios y portal actuales;
+3. modalidad correcta;
+4. lengua/variedad y comunidad;
+5. estado de amenaza y transmisión;
+6. inventario real de documentación existente;
+7. brecha documental;
+8. relación comunitaria y ética;
+9. requisitos de archivo/ELAR;
+10. institución host si la modalidad la requiere;
+11. perfil y composición del equipo;
+12. cronograma, presupuesto y fecha límite.
 
-Bajo Rapid Grant, ELDP no financia:
+## 7. Regla de doble verificación
 
-- propuestas sin potencial de convertirse en un proyecto posterior de documentación;
-- proyectos cuyo objetivo primario no sea la documentación lingüística, sino la recolección de datos para una tesis de licenciatura o maestría;
-- continuación de un proyecto ya en curso, ni visitas repetidas a sitios de campo previamente financiados;
-- viajes a comunidades donde la lengua no se considera amenazada.
+Para asuntos que afecten elegibilidad, reputación, envío o compromisos institucionales:
 
-**Ninguna lista equivalente aparece en la sección Small Grants.**
+- ChatGPT puede investigar, consolidar y preparar;
+- antes de una reunión o envío, el usuario debe realizar una revisión final de las fuentes primarias críticas;
+- cualquier afirmación no confirmada en una fuente primaria debe presentarse como duda o inferencia.
 
-### INFERENCIA DE TRABAJO
+## 8. Estado de modalidades para este repositorio
 
-- La cuarta condición —lengua no considerada amenazada— conserva relevancia transversal: la sección Small Grant define la modalidad como apoyo a la documentación de lenguas amenazadas. La justificación de pertinencia sigue siendo necesaria y debe estar geográficamente acotada (`SUP-005`, `PEN-001`).
-- La segunda condición no aplica: el proyecto no recolecta datos para una tesis.
-- La tercera condición **no está documentada para Small Grant** y su vigencia real es objeto de `PEN-009`. Hasta resolverlo, no debe usarse como restricción de diseño ni presentarse como requisito oficial.
+| Modalidad | Estado actual |
+|---|---|
+| Rapid Grant — didxazá 2026 | Cerrado |
+| Small Grant — didxazá 2026 | Cerrado |
+| Rapid Grant futuro — otra lengua/proyecto | Posibilidad abierta, sin proyecto |
+| Small Grant futuro | Posibilidad abierta, sin proyecto |
+| Otras modalidades ELDP | No evaluadas actualmente |
 
----
+## Regla final
 
-## Riesgos directos para esta candidatura
+**Este documento conserva aprendizaje, no pendientes.**
 
-Reformulados para la modalidad vigente. Son inferencias del equipo, no requisitos oficiales.
-
-1. **Objetivo pedagógico.** Voces de las Nubes nació como herramienta de aprendizaje. La solicitud debe demostrar que el objetivo primario del proyecto financiado es la documentación lingüística (`DEC-002`, `SUP-004`).
-2. **Pertinencia y amenaza.** El diidxazá no está clasificado como globalmente amenazado. El argumento debe construirse con evidencia sociolingüística acotada por municipio y verificable (`PEN-001`).
-3. **Brecha documental.** Existe documentación previa propia y externa. La propuesta debe articular qué material nuevo produce y por qué importa (`PEN-002`, `PEN-003`).
-4. **Elegibilidad institucional.** La acreditación de Casa de las Ciencias como institución administradora no está confirmada (`SUP-007`, `PEN-010`).
-5. **Accesibilidad del trabajo previo.** ELDP evalúa el historial de archivo. Los materiales existentes aún no están archivados ni accesibles para evaluación (`SUP-009`, `PEN-006`).
-6. **Dimensionamiento.** El proyecto debe caber realmente en 6-12 meses y 10.000 € (`SUP-002`, `SUP-003`).
-
----
-
-## Otras modalidades — referencia comparativa
-
-| Modalidad | Monto máximo | Duración | Institución administradora | Pertinencia para este proyecto |
-|---|---|---|---|---|
-| Rapid Grant (RG) | 5.000 € | Hasta 6 meses | No requerida; pago directo | **Cerrada** (`DEC-007`) |
-| **Small Grant (SG)** | **10.000 €** | **6-12 meses** | **Requerida** | **Modalidad objetivo** (`DEC-009`) |
-| Individual Graduate Scholarship (IGS) | No especificado | 12-36 meses | Requerida | No elegible: exige estar inscrito o admitido en un programa doctoral |
-| Individual Postdoctoral Fellowship (IPF) | 250.000 € | Hasta 24 meses | Requerida | No elegible: exige doctorado obtenido en los cinco años previos |
-| Major Documentation Project (MDP) | 300.000 € | 6-36 meses | Requerida | Horizonte posible a futuro; exige trayectoria probada y resultados archivados de apoyos previos |
-| Legacy Materials Grants (LMG) | 10.000 € | 6-12 meses | Requerida | No aplica: dirigida a digitalizar materiales analógicos preexistentes fuera de repositorio |
-
-**Alcance de la fuente:** `ELDP_GrantTypeDescriptions.pdf`, pp. 2-7.
-
-Nota sobre LMG: solo se financia si los materiales pueden quedar abiertamente accesibles en el Endangered Languages Archive (ELAR). Este requisito es específico de LMG y no debe trasladarse automáticamente al Small Grant.
-
----
-
-## Modalidad cerrada — Rapid Grant (referencia histórica)
-
-Se conserva por trazabilidad. **No debe usarse para diseñar la candidatura vigente.**
-
-### HECHO OFICIAL
-
-- Apoya trabajo de campo inicial para evaluar la viabilidad de un proyecto de documentación, vinculación inicial con una comunidad lingüística y recolección preliminar de datos.
-- Admite trabajo de reconocimiento lingüístico en zonas donde la situación se conoce poco.
-- Monto máximo 5.000 €; duración máxima seis meses; convocatoria continua; resultado normalmente dentro de los dos meses posteriores al envío.
-- Pago directo a la persona beneficiaria; no requiere institución anfitriona.
-- Se evalúa con los mismos criterios que otras modalidades, aunque con menor exigencia en aspectos que solo pueden establecerse tras un viaje preliminar.
-
-### HECHO OFICIAL — respuesta directa de ELDP (2026-08-07)
-
-Mandana indicó que los Rapid Grants están destinados a trabajo exploratorio corto en contextos de primer contacto o extremadamente poco documentados, y no a trabajo en curso, expansión de proyectos existentes ni documentación general. Las dos direcciones consultadas quedaron fuera de alcance y corresponden a la vía regular de subvenciones (`EVI-021`).
-
----
-
-## Preguntas que la aplicación debe responder
-
-Reformuladas para Small Grant.
-
-1. ¿Qué material documental concreto producirá el proyecto?
-2. ¿Por qué el diidxazá, y específicamente la localidad elegida, es pertinente para ELDP?
-3. ¿Qué recursos y documentación ya existen, propios y externos?
-4. ¿Qué añade este trabajo a lo que ya existe?
-5. ¿Qué hará exactamente el equipo durante 6-12 meses?
-6. ¿Cómo participarán hablantes y colaboradores en decisiones, producción y validación?
-7. ¿Cómo se manejarán consentimiento, acceso, propiedad, atribución y remuneración?
-8. ¿Dónde se archivarán los materiales y bajo qué condiciones de acceso?
-9. ¿Qué trayectoria previa respalda la capacidad de ejecución, y dónde puede evaluarse?
-10. ¿Qué institución acreditada administrará los fondos y bajo qué acuerdo?
-11. ¿Por qué el alcance y el presupuesto son realistas para la modalidad?
-12. ¿Qué proyecto posterior harían posible estos resultados, sin prometerlo automáticamente?
-
----
-
-## Información todavía faltante
-
-Esta fuente no incluye:
-
-- formulario vigente de solicitud del Small Grant;
-- criterios detallados de evaluación y ponderación;
-- políticas presupuestarias completas y partidas admisibles;
-- lineamientos formales de ética, consentimiento y gestión de datos;
-- requisitos de archivo específicos del Small Grant y repositorios aceptados;
-- criterios de acreditación institucional;
-- calendario de recepción y plazos de resolución;
-- preguntas frecuentes;
-- análisis comparativo de Small Grants financiados.
-
-Todo lo anterior permanece en `PEN-008`, `PEN-009` y `PEN-010`. Ningún patrón sobre proyectos aprobados puede afirmarse antes de una revisión verificable (`DEC-014`).
-
----
-
-## Registro de cambios
-
-| Versión | Fecha | Cambio |
-|---|---|---|
-| 1.0 | 2026-08-03 | Consolidación inicial centrada en Rapid Grant |
-| 2.0 | 2026-08-10 | Reorientación a Small Grant. Lectura directa del PDF original. Se acota el alcance de cada hecho a su modalidad de origen. Se corrige la atribución de la lista "no financiamos" como Rapid-específica. Se incorporan el criterio de elegibilidad ampliado del Small Grant, la formulación "accesible para evaluación", la tabla comparativa de las seis modalidades y las preguntas reformuladas. Rapid pasa a referencia histórica. |
+Cualquier futura candidatura comienza como un proyecto nuevo y debe contrastarse con la documentación oficial vigente del ciclo correspondiente.
