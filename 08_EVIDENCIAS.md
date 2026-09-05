@@ -1,7 +1,7 @@
 # ELDP — Registro de Evidencias
 
-**Versión:** 2.0  
-**Última actualización:** 2026-09-04  
+**Versión:** 2.1  
+**Última actualización:** 2026-09-05  
 **Estado:** ARCHIVO DE EVIDENCIA — sin candidatura activa
 
 ## Propósito
@@ -13,7 +13,8 @@ Toda futura candidatura deberá volver a verificar la documentación vigente y c
 ## Regla de alcance
 
 - Los hechos oficiales conservan el alcance de la modalidad a la que pertenecen.
-- Las reconstrucciones de reuniones se identifican como tales y no se tratan como citas textuales.
+- La sesión de Office Hours se conserva en `12_OFFICE_HOURS_2026-08-27.md`, derivado de la transcripción completa aportada por el usuario.
+- La transcripción de Office Hours es evidencia directa de orientación oral, pero no sustituye una regla publicada cuando una futura convocatoria requiera verificación formal.
 - El estado actual de Voces de las Nubes se consulta en `lopezcarlton/vocesdelasnubes`.
 - Una fotografía histórica de COR001/COR002 no debe usarse como estado vigente.
 
@@ -60,22 +61,37 @@ La afirmación histórica de que COR002 contenía 107 conversaciones/24 situacio
 
 La autoridad para cualquier descripción futura sigue siendo `lopezcarlton/vocesdelasnubes`.
 
-## C. Aprendizajes derivados de la reunión colectiva ELDP — agosto 2026
+## C. Evidencias de Office Hours — transcripción completa incorporada 2026-09-05
 
-**Fuente:** reconstrucción del usuario a partir de la reunión; no existe transcripción textual validada.
+**Fuente:** `12_OFFICE_HOURS_2026-08-27.md`, derivado de la transcripción completa aportada por el usuario.
 
-| ID | Aprendizaje | Tipo | Uso |
+| ID | Afirmación | Alcance | Estado |
 |---|---|---|---|
-| EVI-035 | ELDP prioriza fuertemente lenguas altamente amenazadas con poca o ninguna documentación frente a lenguas ya ampliamente documentadas. | Aprendizaje de reunión | Explicar cierre estratégico 2026 |
-| EVI-036 | En casos planteados por varios asistentes, la existencia de documentación previa importante reducía la competitividad salvo que se propusiera una contribución documental sustancialmente distinta. | Aprendizaje de reunión | Contexto competitivo |
-| EVI-037 | ELDP no financia revitalización como objetivo central; su objeto es documentación lingüística. | Aprendizaje de reunión, consistente con orientación del programa | Separar documentación de objetivos pedagógicos/revitalizadores |
-| EVI-038 | La reunión evidenció la necesidad de dominar antes del envío los formularios/portal y el flujo de archivo/ELAR. | Aprendizaje operativo | Mejorar preparación futura |
+| EVI-035 | Rapid Grant es para trabajo genuinamente exploratorio: contacto inicial, localización de hablantes, survey, aclaración de estatus o viabilidad; no es un Small Grant pequeño. | Rapid / orientación oral | Confirmada por Office Hours |
+| EVI-036 | Para el planteamiento presentado por Emiliano, la facilitadora confirmó que el siguiente paso habría sido Small Grant. | Caso Emiliano 2026 | Confirmada por Office Hours |
+| EVI-037 | ELDP financia documentación lingüística, no revitalización, enseñanza o mantenimiento como objetivo central. | General / orientación oral | Confirmada por Office Hours |
+| EVI-038 | No es necesario ser lingüista para Small Grant; un proyecto puede centrarse en buenas grabaciones, transcripción y traducción. | Small / orientación oral | Confirmada por Office Hours |
+| EVI-039 | Transcripción y traducción son esenciales porque permiten acceder al contenido de las grabaciones. | Documentación / orientación oral | Confirmada por Office Hours |
+| EVI-040 | La documentación existente sobre la lengua es una consideración central; una nueva solicitud debe explicar qué falta y qué añade. | Evaluación / orientación oral | Confirmada por Office Hours |
+| EVI-041 | La documentación existente sobre la familia lingüística y la cobertura geográfica también pesan en la priorización. | Evaluación / orientación oral | Confirmada por Office Hours |
+| EVI-042 | La urgencia es relativa: si otros factores son comparables, el panel tiende a priorizar la lengua/proyecto más urgente y menos documentado. | Evaluación / orientación oral | Confirmada por Office Hours |
+| EVI-043 | Didxazá / Isthmus Zapotec fue caracterizado por la facilitadora como bien documentado. | Caso didxazá | Confirmada por Office Hours |
+| EVI-044 | Existe un proyecto ELDP previo relevante para didxazá y la colección revisada durante la sesión incluye material de habla natural. | Caso didxazá | Confirmada por Office Hours; revisar ELAR directamente si se reabre candidatura |
+| EVI-045 | Un proyecto nuevo sobre una lengua previamente documentada sigue siendo posible si demuestra un hueco documental real y una contribución distinta. | Evaluación / orientación oral | Confirmada por Office Hours |
+| EVI-046 | El track record importa y el material previo archivado permite al panel evaluar la calidad y capacidad del applicant. | Evaluación / orientación oral | Confirmada por Office Hours |
+| EVI-047 | Una nonprofit puede actuar como host si está registrada y tiene experiencia administrando grants; otra institución registrada, incluida una universidad, puede actuar como host alternativo. | Host / orientación oral | Confirmada por Office Hours |
+| EVI-048 | ELDP no financiará un plan principal que dependa de trabajo de campo en una zona de guerra o contexto gravemente inseguro. | Seguridad / orientación oral | Confirmada por Office Hours |
+| EVI-049 | Los proyectos de documentación en diáspora son elegibles y no están excluidos por principio. | Diáspora / orientación oral | Confirmada por Office Hours |
+| EVI-050 | El costo y tamaño del grant afectan la competitividad: compromisos mayores implican mayor umbral de decisión. | Evaluación / orientación oral | Confirmada por Office Hours |
+| EVI-051 | Restricciones familiares, políticas, migratorias o logísticas pueden justificar el diseño si se explican con transparencia. | Diseño / orientación oral | Confirmada por Office Hours |
+| EVI-052 | Los formularios se acceden después de registrarse y seleccionar el tipo de grant; no se muestran directamente como formularios descargables visibles. | Aplicación / orientación oral | Confirmada por Office Hours |
+| EVI-053 | ELAR es accesible para consulta y debe revisarse cuando existe documentación ELDP previa de la lengua. | Archivo / orientación oral | Confirmada por Office Hours |
 
 ## D. Decisiones respaldadas por la evidencia acumulada
 
 ### Cierre 2026
 
-La evidencia disponible no se interpreta como una declaración de inelegibilidad absoluta del didxazá. La decisión fue **estratégica**: no seguir invirtiendo trabajo en una candidatura 2026 con desventaja competitiva clara frente a lenguas mucho menos documentadas.
+La evidencia no se interpreta como una declaración de inelegibilidad absoluta del didxazá. La decisión fue **estratégica**: no seguir invirtiendo trabajo en una candidatura 2026 con desventaja competitiva clara frente a lenguas mucho menos documentadas.
 
 ### Futuro ELDP
 
@@ -97,7 +113,7 @@ Si se reabre ELDP en un futuro ciclo, se crearán nuevos identificadores de evid
 
 1. `ELDP_GrantTypeDescriptions.pdf`.
 2. Respuesta directa de ELDP del 2026-08-07.
-3. Reunión colectiva de orientación de agosto 2026 — reconstrucción del usuario, sin transcripción validada.
+3. `12_OFFICE_HOURS_2026-08-27.md` — evidencia estructurada derivada de la transcripción completa aportada por el usuario.
 4. `lopezcarlton/vocesdelasnubes` — autoridad para estado actual del proyecto principal.
 5. `DOC002 — Principios de diseño del corpus Voces de las Nubes.pdf` — antecedente histórico.
 6. `VOCES DE LAS NUBES proyecto Emiliano.pdf` — antecedente histórico.
