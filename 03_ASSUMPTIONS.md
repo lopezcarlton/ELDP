@@ -1,50 +1,67 @@
 # ELDP — Registro de Supuestos
 
-**Versión:** 1.3  
-**Última actualización:** 2026-08-19
+**Versión:** 2.0  
+**Última actualización:** 2026-09-04  
+**Estado:** ARCHIVADO — sin supuestos operativos activos
 
-## Propósito
+## Propósito actual
 
-Este archivo registra afirmaciones plausibles que todavía no han sido demostradas. Ningún supuesto debe presentarse como hecho dentro de la aplicación.
+Este archivo conserva los supuestos utilizados durante la exploración ELDP 2026. Ya no funciona como lista de incertidumbres que deban resolverse, porque **no existe candidatura ELDP activa**.
 
-## Estados
+Ningún supuesto histórico debe reaparecer como pendiente operativo salvo que una futura candidatura lo vuelva a plantear explícitamente.
 
-- **ABIERTO:** no verificado.
-- **PARCIALMENTE RESPALDADO:** existe evidencia inicial, pero insuficiente.
-- **VALIDADO:** respaldado; debe trasladarse a `08_EVIDENCIAS.md`.
-- **RECHAZADO:** la evidencia lo contradice.
+## Regla de lectura
 
-| ID | Supuesto | Estado | Cómo validarlo | Riesgo si es falso |
-|---|---|---|---|---|
-| SUP-001 | Hablantes binnizá aceptarán participar en el proyecto Small Grant. | Parcialmente respaldado | Conversaciones formales, consentimiento y compromisos específicos. | El trabajo de campo no sería viable. |
-| SUP-002 | El proyecto Small Grant puede ejecutarse en 6-12 meses. | Abierto | Definir alcance, actividades y calendario realista. | La propuesta parecería sobredimensionada. |
-| SUP-003 | Un presupuesto de hasta 10.000 € cubrirá trabajo de campo, remuneraciones y procesamiento básico. | Abierto | Cotizaciones y presupuesto detallado. | Actividades incompletas o presupuesto poco creíble. |
-| SUP-004 | Una parte pertinente de la metodología **vigente** de Voces de las Nubes puede adaptarse a un proyecto de documentación aceptable para ELDP sin convertir la candidatura en un proyecto principalmente pedagógico. | Abierto | Consultar primero `lopezcarlton/vocesdelasnubes`, definir qué metodología se usaría realmente en el Small Grant y contrastarla con criterios ELDP/especialistas. | El proyecto podría parecer principalmente pedagógico o basarse en una descripción metodológica ya superada. |
-| SUP-005 | El diidxazá cumple de manera suficiente los criterios de pertinencia/endangerment requeridos por ELDP para Small Grant. | Parcialmente respaldado | Revisar criterios actuales y fundamentar con evidencia sociolingüística geográficamente acotada. | La pertinencia podría quedar débilmente justificada. |
-| SUP-006 | Los recursos existentes dejan una brecha documental que justifica nuevo trabajo de documentación. | Abierto | Inventario y evaluación de archivos, corpus, diccionarios y grabaciones existentes. | ELDP podría considerar insuficiente la debida diligencia. |
-| SUP-007 | Casa de las Ciencias cumple los criterios de institución acreditada administradora exigidos por ELDP. | Abierto | Confirmación directa con ELDP y revisión de requisitos institucionales. | La institución no podría administrar la subvención. |
-| SUP-008 | El rol de Emiliano como Asesor Técnico Pedagógico y coordinador del proyecto es compatible con su participación como PI bajo las reglas del Small Grant. | Parcialmente respaldado | Confirmación directa con ELDP. | Podría requerirse otra estructura institucional o PI. |
-| SUP-009 | Los materiales previos y futuros pueden archivarse en un repositorio confiable con consentimiento y metadatos adecuados. | Abierto | Consultar requisitos de archivo y definir licencias/acceso. | Debilidad en historial y plan de documentación. |
-| SUP-010 | La experiencia académica y de campo del solicitante es suficiente para el perfil esperado del Small Grant. | Parcialmente respaldado | Preparar CV narrativo y evidencia de experiencia relevante. | Dudas sobre capacidad de ejecución. |
+- **HISTÓRICO:** perteneció al diseño 2026 y ya no requiere resolución.
+- **SUPERADO POR CIERRE:** la pregunta dejó de ser operativa al cerrarse la candidatura 2026.
+- **REQUIERE NUEVA VERIFICACIÓN:** no puede heredarse a un ciclo futuro; debe comprobarse desde cero si vuelve a ser pertinente.
 
-## Correcciones de supuestos e inferencias invalidadas
+## Supuestos del ciclo 2026
+
+| ID | Supuesto histórico | Estado actual | Nota |
+|---|---|---|---|
+| SUP-001 | Hablantes binnizá aceptarían participar en el Small Grant. | SUPERADO POR CIERRE | No existe Small Grant activo. La participación futura se verificaría para el proyecto concreto que eventualmente se abra. |
+| SUP-002 | El Small Grant podría ejecutarse en 6-12 meses. | SUPERADO POR CIERRE | El diseño 2026 fue archivado. |
+| SUP-003 | Un presupuesto de hasta 10.000 € sería suficiente. | SUPERADO POR CIERRE | No existe presupuesto ELDP activo. |
+| SUP-004 | Parte de la metodología de Voces podría adaptarse a documentación ELDP sin convertir la candidatura en un proyecto principalmente pedagógico. | SUPERADO POR CIERRE | La reunión colectiva reforzó que ELDP financia documentación lingüística, no revitalización. Una futura propuesta deberá diseñarse desde documentación, no adaptar automáticamente Voces. |
+| SUP-005 | El didxazá tendría pertinencia/endangerment suficiente para competir en Small Grant. | NO PRIORIZADO / HISTÓRICO | La exploración y la reunión mostraron una desventaja competitiva fuerte frente a lenguas altamente amenazadas y sin documentación. Esto no se registra como inelegibilidad absoluta, sino como razón estratégica para no aplicar en 2026. |
+| SUP-006 | Existía una brecha documental suficiente en didxazá para justificar nuevo trabajo ELDP. | NO PRIORIZADO / HISTÓRICO | Podría existir una brecha específica, pero no se consideró racional seguir buscándola para una candidatura 2026 dada la documentación existente y las prioridades del programa. |
+| SUP-007 | Casa de las Ciencias cumpliría criterios de institución administradora. | SUPERADO POR CIERRE | No debe resolverse mientras no exista candidatura. Una futura propuesta puede incluso usar otra institución host. |
+| SUP-008 | El rol de Emiliano sería compatible con PI. | SUPERADO POR CIERRE | No existe candidatura activa. El perfil futuro deberá evaluarse contra las reglas vigentes del ciclo correspondiente. |
+| SUP-009 | Los materiales podrían archivarse adecuadamente. | SUPERADO POR CIERRE | La cuestión de archivo sigue siendo aprendizaje relevante, pero no tarea ELDP activa. |
+| SUP-010 | La experiencia académica y de campo del solicitante sería suficiente para Small Grant. | SUPERADO POR CIERRE | El perfil incluye Licenciatura en Antropología Histórica, experiencia de campo, Maestría en Creación Musical, Nuevas Tecnologías y Artes Tradicionales, y amplia experiencia profesional en grabación, producción y postproducción audiovisual. No existe necesidad operativa de resolver elegibilidad de PI en 2026. |
+
+## Correcciones permanentes conservadas
 
 ### Enrique "Guajiro" López
 
-**Corrección (2026-08-04):** Enrique "Guajiro" López no es colaborador formal del proyecto. Su papel documentado fue de interlocución informal y retroalimentación sobre el diseño del corpus. No debe presentarse como integrante formal o participante comprometido.
+Enrique López no es colaborador formal del proyecto. Su papel documentado fue de interlocución informal y retroalimentación sobre el diseño del corpus.
 
 ### Rol institucional de Emiliano López Carlton
 
-**Corrección (2026-08-07):** Emiliano es Asesor Técnico Pedagógico de Casa de las Ciencias y coordinador de Voces de las Nubes. No es director, propietario ni responsable financiero de la institución. Sigue pendiente confirmar la elegibilidad institucional y compatibilidad de su rol como PI.
+Emiliano es Asesor Técnico Pedagógico de Casa de las Ciencias y coordinador de Voces de las Nubes. No es director, propietario ni responsable financiero de la institución.
 
-### Elegibilidad del Rapid Grant
+### Rapid Grant y didxazá 2026
 
-**Corrección (2026-08-07):** Queda invalidado cualquier supuesto que trate como abierta la posibilidad de adaptar COR002, el trabajo en Juchitán o géneros específicos del diidxazá a un Rapid Grant bajo la información ya consultada.
+No debe reabrirse la idea de adaptar COR002, trabajo ya iniciado en Juchitán o géneros específicos del didxazá a un Rapid Grant del ciclo 2026.
 
-### Estado de COR001/COR002 y metodología
+### Estado de COR001/COR002
 
-**Corrección (2026-08-19):** Ninguna versión histórica almacenada en ELDP debe tratarse como estado vigente de COR001, COR002 o de la metodología de Voces de las Nubes. Estos componentes siguen evolucionando y deben verificarse en `lopezcarlton/vocesdelasnubes` antes de utilizarlos en el diseño o la redacción de la candidatura.
+ELDP no gobierna el estado de los corpus. Toda descripción vigente se consulta en `lopezcarlton/vocesdelasnubes`.
 
-## Regla de actualización
+**Corrección 2026-09-04:** COR002 debe describirse como **en construcción**, no "en revisión". No está grabado.
 
-Cuando un supuesto se valide, debe documentarse la fuente en `08_EVIDENCIAS.md` y actualizarse su estado. Cuando se convierta en una decisión operativa, debe registrarse también en `02_DECISIONES.md`.
+## Regla para una futura candidatura
+
+Una eventual reapertura en 2027 o después **no hereda estos supuestos**. Debe crear un nuevo conjunto de preguntas desde cero según:
+
+- lengua/variedad elegida;
+- comunidad;
+- estado real de documentación;
+- modalidad ELDP vigente;
+- relación comunitaria;
+- institución host;
+- equipo;
+- requisitos actuales del programa.
+
+Hasta entonces, este archivo es únicamente memoria histórica.
