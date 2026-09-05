@@ -1,7 +1,7 @@
 # ELDP — Bitácora de Trabajo
 
-**Versión:** 2.0  
-**Última actualización:** 2026-09-04
+**Versión:** 2.1  
+**Última actualización:** 2026-09-05
 
 ## Regla
 
@@ -86,39 +86,15 @@ La bitácora registra la evolución histórica del frente ELDP. No genera pendie
 
 **Contexto:** reunión colectiva por Zoom con Mandana Seyfeddinipur y otros participantes interesados en las convocatorias ELDP.
 
-**Fuente de esta entrada:** reconstrucción del usuario. Existe grabación de audio, pero no se obtuvo una transcripción textual validada en este entorno; por tanto no se atribuyen citas literales.
+**Fuente usada inicialmente:** reconstrucción del usuario a partir de la reunión.  
+**Fuente sustituida el 2026-09-05:** transcripción completa aportada por el usuario y estructurada en `12_OFFICE_HOURS_2026-08-27.md`.
 
-### Aprendizajes estratégicos
+### Aprendizajes estratégicos inicialmente adoptados
 
-1. **Prioridad por urgencia y falta de documentación.**
-   - La reunión dejó claro que ELDP prioriza fuertemente lenguas altamente amenazadas y para las cuales existe poca o ninguna documentación.
-   - Una lengua ampliamente documentada tiene una desventaja competitiva frente a otras lenguas de las que prácticamente no existen registros.
-   - Otros participantes plantearon casos comparables y recibieron respuestas en la misma dirección general.
-
-2. **Didxazá.**
-   - La conclusión del proyecto no fue “didxazá es inelegible”.
-   - La conclusión fue que, dada su documentación previa considerable, invertir más trabajo en una candidatura ELDP 2026 ofrecía una expectativa competitiva baja frente a lenguas mucho menos documentadas.
-   - Solo una contribución documental verdaderamente distinta podría cambiar esa evaluación, y aun así la prioridad por urgencia seguiría siendo un factor importante.
-
-3. **Documentación no es revitalización.**
-   - La reunión reforzó que ELDP financia documentación lingüística como objetivo central, no revitalización.
-   - Esto obligó a reconocer que Voces de las Nubes, aunque incorpora prácticas documentales, tiene una finalidad pedagógica y de continuidad lingüística más amplia que no debe forzarse dentro de ELDP.
-
-4. **Archivo y aplicación.**
-   - La sesión evidenció lagunas de preparación respecto al archivo lingüístico/ELAR y a la localización/uso de materiales y formularios de aplicación.
-   - Se adoptó como lección futura una regla de doble verificación de fuentes primarias antes de reuniones, envíos o afirmaciones críticas.
-
-### Perfil del solicitante aclarado posteriormente
-
-Para futuras evaluaciones no debe reducirse el perfil de Emiliano a “no lingüista”. Cuenta con:
-
-- Licenciatura en Antropología Histórica;
-- formación y experiencia de trabajo de campo;
-- Maestría en Creación Musical, Nuevas Tecnologías y Artes Tradicionales;
-- experiencia profesional extensa en grabación, producción y postproducción de audio y video para series, comerciales, películas y discos;
-- experiencia real coordinando y produciendo materiales dentro de Voces de las Nubes.
-
-La brecha específica identificada es formación especializada en documentación lingüística contemporánea, anotación, metadatos y archivo, no ausencia de formación de campo o capacidad técnica.
+1. ELDP prioriza fuertemente lenguas altamente amenazadas y con poca o ninguna documentación.
+2. Didxazá no fue considerado inelegible, pero sí claramente más difícil de justificar frente a lenguas con mayores vacíos documentales.
+3. ELDP financia documentación lingüística, no revitalización como objetivo central.
+4. Archivo, ELAR, formularios y fuentes primarias deben dominarse antes de reuniones o envíos.
 
 ---
 
@@ -168,23 +144,12 @@ La brecha específica identificada es formación especializada en documentación
 
 **Objetivo:** asegurar que el cierre 2026 sea coherente en toda la Base de Conocimiento y que ningún documento vuelva a producir pendientes falsos.
 
-### Hallazgos
-
-- `00_README.md`, `01_DASHBOARD.md`, `02_DECISIONES.md`, `05_PROYECTO.md` y `06_BACKLOG.md` ya reflejaban el cierre.
-- `03_ASSUMPTIONS.md` todavía mantenía supuestos como si debieran resolverse.
-- `04_ELDP.md` todavía describía Small Grant como “modalidad objetivo”.
-- `08_EVIDENCIAS.md` mantenía `PEN-001` a `PEN-010` como evidencia pendiente prioritaria.
-- `10_IDEAS.md` seguía marcado como activo.
-- `11_FUENTES_EXTERNAS_VOCES.md` todavía hablaba de una candidatura activa.
-- persistía una descripción obsoleta de COR002 como “en revisión”.
-
-### Correcciones realizadas
+### Correcciones principales
 
 - todos los supuestos 2026 fueron archivados y dejaron de ser tareas;
 - `04_ELDP.md` pasó a ser conocimiento consolidado de referencia, no guía de una candidatura activa;
 - los `PEN` fueron cerrados como pendientes operativos;
 - COR002 quedó corregido a **en construcción, no grabado**;
-- la reunión colectiva y sus aprendizajes quedaron registrados con su nivel correcto de evidencia;
 - la exploración chocholteca quedó archivada sin generar trabajo futuro automático;
 - `10_IDEAS.md` quedó sin ideas activas;
 - la frontera de autoridad con Voces fue actualizada al estado de repositorio archivado.
@@ -193,9 +158,41 @@ La brecha específica identificada es formación especializada en documentación
 
 **ELDP 2026 está cerrado de manera consistente en todo el repositorio.**
 
-No existe ningún pendiente operativo de candidatura.
+---
 
-La reapertura futura requiere una nueva decisión, un nuevo ciclo, una nueva evaluación de documentación oficial y un nuevo diagnóstico de lengua/comunidad/proyecto.
+## 2026-09-05 — Incorporación de la transcripción completa de Office Hours
+
+**Tipo:** mantenimiento documental.
+
+**Objetivo:** sustituir la reconstrucción parcial de memoria por evidencia derivada de la transcripción completa aportada por el usuario y rescatar conocimiento reutilizable sin reabrir la candidatura.
+
+### Hallazgos incorporados
+
+- Rapid Grant quedó definido con mayor precisión como instrumento genuinamente exploratorio, no como Small Grant reducido.
+- Se confirmó de forma explícita que, para el planteamiento de Emiliano en 2026, el siguiente paso habría sido Small Grant.
+- Se aclaró que una nonprofit host debe estar registrada y contar con experiencia administrando grants; otra organización registrada o universidad puede actuar como alternativa.
+- Se consolidó que no es necesario ser lingüista para un Small Grant documental.
+- Se registró que transcripción y traducción son esenciales como vía de acceso a las grabaciones.
+- Se precisó que la evaluación considera documentación previa de la lengua, de la familia y cobertura geográfica, además de urgencia, viabilidad, track record y costo.
+- Se confirmó que didxazá fue considerado bien documentado y que existe una colección ELDP previa con habla natural relevante para cualquier futura justificación.
+- Se incorporaron criterios sobre track record, archivo, diáspora, seguridad, transparencia logística y tamaño del grant.
+- Se aclaró el flujo de formularios: registro → selección de modalidad → formulario.
+- Se confirmó ELAR como recurso de consulta directa.
+
+### Archivos modificados
+
+- `04_ELDP.md`
+- `08_EVIDENCIAS.md`
+- `09_BITACORA.md`
+- nuevo `12_OFFICE_HOURS_2026-08-27.md`
+
+### Decisiones
+
+Ninguna nueva decisión de candidatura. El cierre 2026 permanece intacto.
+
+### Pendientes
+
+Ninguno. La incorporación es exclusivamente de conocimiento histórico y estratégico.
 
 ---
 
