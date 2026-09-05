@@ -1,70 +1,136 @@
 # ELDP — Dashboard del Proyecto
 
-**Versión:** 2.0  
-**Última actualización:** 2026-08-27
+**Versión:** 2.1  
+**Última actualización:** 2026-09-04
 
 ## Estado general
 
 - **Ciclo 2026:** CERRADO sin candidatura.
 - **Solicitud ELDP activa:** Ninguna.
 - **Modalidad activa:** Ninguna.
-- **Lengua/proyecto para una futura candidatura:** No definido.
-- **Posible reapertura:** 2027 o ciclo posterior, solo mediante una nueva decisión explícita.
+- **Lengua/proyecto activo para ELDP:** Ninguno.
+- **Backlog activo:** Vacío.
+- **Ruta crítica:** Inexistente.
+- **Próxima fecha objetivo:** Ninguna.
+- **Posible reapertura:** 2027 o después, solo mediante nueva decisión explícita.
 
 ## Decisión vigente
 
 No se presentará ninguna solicitud a ELDP en 2026.
 
-Esta decisión cierra la preparación de la candidatura actual y elimina todos los pendientes operativos asociados a enviar una solicitud este año.
+El repositorio ya no representa una candidatura en preparación. Funciona como **archivo activo de conocimiento y trazabilidad** del trabajo realizado entre julio y agosto de 2026.
 
-No constituye un abandono definitivo de ELDP.
+## Motivo estratégico del cierre
 
-## Motivo del cierre 2026
+La exploración culminó con una comprensión más precisa de la lógica competitiva de ELDP:
 
-La exploración realizada durante julio y agosto de 2026 permitió comprender mejor la prioridad de ELDP: documentación lingüística de lenguas altamente amenazadas y, especialmente, insuficientemente documentadas.
+1. ELDP prioriza documentación de lenguas altamente amenazadas y escasamente documentadas.
+2. El didxazá cuenta con documentación previa considerable.
+3. Por tanto, aun cuando pudiera diseñarse un proyecto documental técnicamente elegible, su posición competitiva sería débil frente a lenguas con poca o ninguna documentación.
+4. Voces de las Nubes tiene además una finalidad pedagógica y de continuidad lingüística más amplia; no se considera estratégico deformar el proyecto para encajarlo en un programa centrado en documentación lingüística.
+5. Se decidió concentrar recursos en consolidar Voces y conservar ELDP como posibilidad futura para un proyecto distinto o una lengua distinta.
 
-El didxazá cuenta con una documentación previa considerable y su situación competitiva dentro de ELDP es débil frente a lenguas con muy poca o ninguna documentación. Continuar forzando una candidatura ELDP alrededor de la fase actual de Voces de las Nubes produciría un costo de oportunidad alto y desviaría el proyecto de su propósito principal.
+**Importante:** el cierre no registra una declaración de inelegibilidad absoluta del didxazá. Registra una decisión de prioridad y costo de oportunidad.
 
-Por tanto:
+## Lo que quedó cerrado en 2026
 
-1. Voces de las Nubes continúa como proyecto centrado actualmente en didxazá, fuera de una candidatura ELDP 2026.
-2. No se seguirá diseñando una solicitud Small Grant para didxazá durante este ciclo.
-3. No se abrirá una solicitud Rapid Grant en 2026.
-4. ELDP permanece como posibilidad futura.
-5. Una candidatura futura puede surgir cuando Voces de las Nubes esté más consolidado o a partir de un nuevo proyecto de documentación de otra lengua, potencialmente mucho más amenazada y menos documentada.
+- Rapid Grant para adaptar COR002 o trabajo didxazá ya iniciado.
+- Small Grant didxazá 2026.
+- definición de host institucional para esa candidatura;
+- presupuesto y cronograma;
+- participantes y plan de campo para ELDP;
+- entregables y archivo específicos de grant;
+- revisión de formularios con fines de envío 2026;
+- análisis comparativo de grants con fines de esa aplicación;
+- todos los `PEN` y supuestos operativos heredados del diseño 2026.
 
-## Estado de la ruta crítica
+Ninguno de estos elementos debe reaparecer como pendiente automático.
 
-No existe ruta crítica activa de candidatura.
+## Aprendizajes centrales conservados
 
-Las antiguas tareas de elegibilidad institucional, diseño del Small Grant, presupuesto, cronograma, participantes, archivo, formularios y envío quedan cerradas como tareas operativas del ciclo 2026. No deben aparecer como pendientes hasta que exista una decisión explícita de reabrir una candidatura.
+### 1. Rapid Grant
 
-## Condición para reabrir ELDP
+Rapid es adecuado para trabajo verdaderamente exploratorio: contacto inicial, viabilidad, survey o contextos muy pobremente documentados. No sirve para reconvertir trabajo ya iniciado de Voces de las Nubes.
 
-El proyecto ELDP solo vuelve a estado activo si se toma una nueva decisión que defina al menos:
+### 2. Competitividad
 
-- ciclo de aplicación;
-- lengua o variedad a documentar;
-- comunidad o región;
-- problema documental real;
-- modalidad ELDP plausible;
-- relación comunitaria y viabilidad inicial.
+La ausencia de documentación y la urgencia de registrar una lengua son factores estratégicos de primer orden. Una futura búsqueda de lengua/proyecto debe comenzar por la brecha documental real, no por intentar adaptar una idea ya existente.
 
-Una futura candidatura no tiene obligación de continuar el diseño Small Grant de 2026 ni de estar centrada en didxazá.
+### 3. Documentación ≠ revitalización
 
-## Legado del ciclo 2026
+ELDP financia documentación lingüística como objetivo central. La documentación puede alimentar posteriormente revitalización, pedagogía o continuidad lingüística, pero esas finalidades no deben sustituir el objeto documental del grant.
 
-Se conserva el repositorio porque contiene:
+### 4. Archivo y preparación
 
-- investigación sobre modalidades ELDP;
-- evidencia y decisiones tomadas;
-- aprendizaje sobre documentación lingüística y archivo;
-- historial de la exploración Rapid → Small Grant;
-- materiales útiles para una futura candidatura;
-- errores, correcciones y criterios que no deben reconstruirse desde cero.
+Una futura candidatura debe dominar desde el inicio:
+
+- portal y formularios vigentes;
+- requisitos de archivo y ELAR;
+- metadatos, consentimiento y acceso;
+- relación entre datos previos y track record;
+- reglas institucionales y de elegibilidad.
+
+### 5. Doble verificación
+
+Las cuestiones que afectan elegibilidad, reputación, reunión o envío requieren revisión final de fuentes primarias por parte del usuario, además de la investigación delegada a ChatGPT.
+
+## Estado de Voces de las Nubes respecto a ELDP
+
+Voces de las Nubes continúa fuera de ELDP 2026 y se rige por `lopezcarlton/vocesdelasnubes`.
+
+Este repositorio no debe seguir el progreso cotidiano de COR001, COR002, metodología, pedagogía, teoría, audio o validación.
+
+Corrección trasladada a este archivo: **COR002 está en construcción y no está grabado.** Cualquier estado futuro debe consultarse en Voces.
+
+## Posible futuro ELDP
+
+Una nueva candidatura podría surgir si:
+
+- Voces de las Nubes se consolida y aparece una brecha documental genuinamente competitiva; o
+- se desarrolla un proyecto independiente sobre otra lengua o variedad mucho más amenazada y menos documentada.
+
+La exploración breve del chocholteco/ngiba-ngigua quedó archivada y no constituye preferencia ni tarea activa.
+
+## Condiciones de reapertura
+
+Antes de cambiar este dashboard a `ACTIVO` deben definirse explícitamente:
+
+1. ciclo de aplicación;
+2. lengua/variedad;
+3. comunidad o región;
+4. estado de documentación y amenaza;
+5. brecha documental concreta;
+6. relación comunitaria y viabilidad ética;
+7. modalidad ELDP plausible;
+8. razón estratégica para priorizar la candidatura.
+
+Solo después podrán abrirse nuevamente:
+
+- backlog;
+- supuestos;
+- evidencias pendientes;
+- diseño de proyecto;
+- cronograma y presupuesto.
+
+## Estado documental del repositorio
+
+| Archivo | Estado al 2026-09-04 |
+|---|---|
+| `00_README.md` | Cerrado / archivo activo de conocimiento |
+| `01_DASHBOARD.md` | Estado actual detallado |
+| `02_DECISIONES.md` | Vigente; cierre 2026 y reapertura futura registrados |
+| `03_ASSUMPTIONS.md` | Archivado; 0 supuestos operativos |
+| `04_ELDP.md` | Referencia consolidada; no candidatura activa |
+| `05_PROYECTO.md` | Diseño 2026 archivado |
+| `06_BACKLOG.md` | 0 tareas activas |
+| `07_GLOSARIO.md` | Histórico / referencia |
+| `08_EVIDENCIAS.md` | Archivo de evidencia; 0 PEN operativos |
+| `09_BITACORA.md` | Actualizada con reunión, cierre y auditoría 2026-09-04 |
+| `10_IDEAS.md` | Archivado; 0 ideas activas |
+| `11_FUENTES_EXTERNAS_VOCES.md` | Frontera de autoridad vigente |
 
 ## Próximo paso
 
-Ninguno dentro de ELDP.
+**Ninguno dentro de ELDP.**
 
-El trabajo vuelve a las prioridades propias de Voces de las Nubes. Cualquier investigación futura sobre ELDP o sobre otra lengua deberá abrirse como un nuevo frente, no como continuación automática de los pendientes de 2026.
+El siguiente movimiento solo existe si el usuario decide explícitamente reabrir este frente en un ciclo futuro.
