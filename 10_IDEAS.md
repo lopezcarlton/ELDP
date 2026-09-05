@@ -1,134 +1,75 @@
-# Small Grant ELDP — Ideas y Variantes del Proyecto
+# ELDP — Ideas y Variantes Históricas
 
-**Versión:** 1.1  
-**Última actualización:** 2026-08-19  
-**Estado:** Activo
+**Versión:** 2.0  
+**Última actualización:** 2026-09-04  
+**Estado:** ARCHIVADO — ninguna idea en análisis activo
 
 ## Propósito
 
-Este archivo es el espacio de lluvia de ideas. Su contenido no constituye decisiones ni diseño aprobado. Una variante solo pasa a `02_DECISIONES.md` y `05_PROYECTO.md` después de validación explícita del usuario.
+Este archivo conserva líneas exploradas durante 2026. No es un espacio de trabajo activo mientras no exista una candidatura ELDP abierta.
 
-## Estados
+Ninguna idea aquí registrada constituye decisión, backlog, proyecto o compromiso futuro.
 
-- 💡 **NUEVA:** propuesta sin analizar.
-- 🔍 **EN ANÁLISIS:** se está evaluando.
-- 🧪 **PARA PROBAR:** merece desarrollo o contraste.
-- ✅ **INCORPORADA:** aprobada y trasladada al diseño.
-- ❌ **DESCARTADA:** rechazada con motivo registrado.
-- ⏸ **POSPUESTA:** valiosa, pero fuera del Small Grant.
+## Regla vigente
 
-## Criterios obligatorios para evaluar variantes
+Mientras `01_DASHBOARD.md` indique que no existe candidatura activa:
 
-Cada variante debe responder:
+- no se generan nuevas variantes de grant;
+- no se evalúan contra presupuesto o plazo;
+- no se convierten en tareas;
+- no se intenta adaptar Voces de las Nubes a ELDP;
+- no se selecciona una lengua únicamente por su potencial de financiamiento.
 
-1. ¿Cuál es la brecha o problema documental que aborda?
-2. ¿Por qué requiere trabajo de campo o producción documental nueva?
-3. ¿Cómo participarán hablantes binnizá?
-4. ¿Qué datos o materiales documentales producirá?
-5. ¿Se plantea como objetivo documental directo o como trabajo de viabilidad/preparación?
-6. ¿Puede ejecutarse en 6-12 meses?
-7. ¿Puede ejecutarse con un máximo de 10.000 €?
-8. ¿Cómo se relaciona con el trabajo previo sin duplicarlo ni describirlo de forma obsoleta?
-9. ¿Qué valor documental tiene por sí misma?
-10. ¿Su objetivo primario es documentación lingüística?
-11. ¿Qué plan de consentimiento, metadatos, acceso y archivo requiere?
-12. ¿La descripción del trabajo previo fue verificada contra `lopezcarlton/vocesdelasnubes`?
+## Líneas exploradas en 2026
 
-## Matriz de variantes
+### IDEA-H01 — Rapid Grant para trabajo pendiente de didxazá
 
-| ID | Variante | Estado | Propósito documental | Actividades principales | Productos | Riesgos | Siguiente fase posible |
-|---|---|---|---|---|---|---|---|
-| IDEA-001 | Pendiente de definir | 💡 Nueva | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
+**Estado:** DESCARTADA para 2026.
 
-## Ficha para desarrollar cada idea
+Se exploró utilizar Rapid Grant para trabajo derivado de COR002 o documentación de géneros específicos. La consulta directa con ELDP indicó que esas variantes correspondían a trabajo ya iniciado y no al propósito exploratorio de Rapid.
 
-### IDEA-XXX — Nombre provisional
+### IDEA-H02 — Small Grant para didxazá / Voces de las Nubes
 
-**Estado:** 💡 Nueva
+**Estado:** CERRADA para 2026.
 
-#### Resumen en una frase
+Después del cierre de Rapid, se exploró Small Grant como vía regular. La reunión colectiva posterior mostró con mayor claridad la fuerte prioridad competitiva de ELDP hacia lenguas altamente amenazadas y muy poco documentadas. Se decidió no continuar el diseño.
 
-Durante [6-12 MESES] se realizará [ACTIVIDAD DOCUMENTAL] con [PARTICIPANTES] para producir [MATERIALES] y [HACER AVANZAR / EVALUAR LA VIABILIDAD DE] [OBJETIVO DOCUMENTAL].
+### IDEA-H03 — Proyecto documental de otra lengua
 
-#### Problema o brecha que aborda
+**Estado:** POSIBILIDAD FUTURA, NO ACTIVA.
 
-Pendiente.
+Se reconoció que una futura candidatura ELDP podría centrarse en otra lengua o variedad más amenazada y menos documentada, sin abandonar Voces de las Nubes.
 
-#### Propósito documental
+La idea es conceptual: no existe lengua seleccionada, comunidad comprometida, modalidad elegida ni calendario.
 
-Pendiente.
+### IDEA-H04 — Chocholteco / ngiba-ngigua
 
-#### Relación con trabajo previo
+**Estado:** EXPLORACIÓN PRELIMINAR CERRADA.
 
-Antes de llenar esta sección debe consultarse `lopezcarlton/vocesdelasnubes`.
+Después de la reunión se consideró brevemente el chocholteco como posible lengua futura por su nivel de riesgo y menor documentación relativa.
 
-- Qué aprovecha:
-- Qué añade:
-- Qué permanece fuera del Small Grant:
+Se discutió la posibilidad de que un trabajo exploratorio pudiera llegar a encajar en Rapid Grant, pero también se identificó que existe documentación histórica, clasificación conocida y actividad institucional/comunitaria, por lo que no podía asumirse elegibilidad Rapid sin investigación más precisa por variante y comunidad.
 
-#### Actividades
+**Decisión:** no continuar esta investigación en 2026 y no convertirla en pendiente.
 
-1. Pendiente.
-2. Pendiente.
-3. Pendiente.
+## Ideas de largo plazo de Voces de las Nubes
 
-#### Participación de hablantes
+El sitio web, materiales de aprendizaje, sistemas tecnológicos, herramientas lingüísticas, expansión multilingüe y demás líneas de Voces pertenecen al repositorio `lopezcarlton/vocesdelasnubes` cuando correspondan.
 
-Pendiente.
+No deben conservarse aquí como “ideas ELDP” salvo que una futura candidatura las haga directamente pertinentes.
 
-#### Datos y entregables
+## Regla de reapertura
 
-Pendiente.
+Si en 2027 o después se decide volver a explorar ELDP:
 
-#### Ética, metadatos y archivo
+1. se registra primero una decisión formal en `02_DECISIONES.md`;
+2. se actualiza `01_DASHBOARD.md`;
+3. se verifica documentación oficial vigente;
+4. se crea un nuevo espacio de ideas para ese ciclo;
+5. las ideas históricas de 2026 pueden consultarse, pero no heredarse automáticamente.
 
-Pendiente.
+## Estado actual
 
-#### Presupuesto aproximado
+**Ideas activas: 0.**
 
-Pendiente.
-
-#### Fortalezas
-
-- Pendiente.
-
-#### Debilidades
-
-- Pendiente.
-
-#### Riesgo de desalineación con ELDP
-
-Pendiente.
-
-#### Siguiente fase posible
-
-Pendiente.
-
-#### Decisión
-
-- [ ] Incorporar.
-- [ ] Descartar.
-- [ ] Posponer.
-- [ ] Reformular.
-
-**Motivo:** Pendiente.
-
-## Líneas de largo plazo separadas de la candidatura
-
-Las siguientes líneas pertenecen a la visión amplia de Voces de las Nubes y no deben incorporarse al Small Grant solo por existir en el proyecto principal:
-
-- sitio web;
-- aplicación educativa;
-- infraestructura tecnológica;
-- reconocimiento automático del habla;
-- síntesis de voz;
-- modelos de IA;
-- tutor conversacional;
-- expansión a otras lenguas;
-- estructura institucional amplia.
-
-Su exclusión actual responde a la separación de narrativas de `DEC-003`, no a una prohibición general documentada del Small Grant.
-
-## Instrucción de trabajo
-
-Generar alternativas realmente distintas, no variaciones superficiales del mismo proyecto. Evaluarlas contra `04_ELDP.md`, `02_DECISIONES.md`, `03_ASSUMPTIONS.md` y `11_FUENTES_EXTERNAS_VOCES.md`. No convertir ninguna alternativa en decisión final sin validación explícita del usuario.
+Este documento es memoria histórica, no incubadora de pendientes.
