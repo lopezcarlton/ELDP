@@ -1,18 +1,30 @@
 # FUENTES EXTERNAS — VOCES DE LAS NUBES
 
 **Repositorio relacionado:** `lopezcarlton/vocesdelasnubes`  
-**Estado:** Vigente  
-**Fecha:** 2026-08-19
+**Versión:** 2.0  
+**Estado:** VIGENTE  
+**Última actualización:** 2026-09-04
 
 ## Propósito
 
-Este archivo define qué información de la candidatura debe consultarse en el repositorio principal de **Voces de las Nubes** en lugar de mantenerse duplicada aquí.
+Definir qué información pertenece al repositorio principal de **Voces de las Nubes** y evitar que el archivo ELDP conserve copias obsoletas del estado lingüístico, pedagógico, metodológico u operativo del proyecto.
 
-El repositorio ELDP gobierna la candidatura al Small Grant. No gobierna el estado lingüístico, pedagógico ni operativo permanente de Voces de las Nubes.
+Actualmente **no existe candidatura ELDP activa**. Este repositorio conserva únicamente la historia y el conocimiento de la exploración 2026.
+
+## Regla principal
+
+`lopezcarlton/vocesdelasnubes` es la fuente autoritativa para el estado actual de Voces de las Nubes.
+
+`lopezcarlton/ELDP` es fuente autoritativa únicamente para:
+
+- historia de la exploración ELDP 2026;
+- decisiones tomadas respecto a ELDP;
+- evidencia y aprendizajes acumulados;
+- condiciones para una eventual reapertura futura.
 
 ## Mapa de autoridad
 
-| Tema | Fuente autoritativa |
+| Tema | Fuente autoritativa actual |
 |---|---|
 | Estado de COR001 | `lopezcarlton/vocesdelasnubes` |
 | Estado y diseño de COR002 | `lopezcarlton/vocesdelasnubes` |
@@ -20,42 +32,51 @@ El repositorio ELDP gobierna la candidatura al Small Grant. No gobierna el estad
 | Arquitectura del corpus | `vocesdelasnubes/conocimiento/CORPUS.md` |
 | Pedagogía | `vocesdelasnubes/conocimiento/PEDAGOGIA.md` |
 | Teoría y estructura lingüística | `vocesdelasnubes/conocimiento/TEORIA.md` |
-| Producción y procesamiento de audio | `vocesdelasnubes/conocimiento/AUDIO.md` |
+| Audio | `vocesdelasnubes/conocimiento/AUDIO.md` |
 | Validación | `vocesdelasnubes/conocimiento/VALIDACION.md` |
 | Bibliografía lingüística | `vocesdelasnubes/conocimiento/BIBLIOGRAFIA.md` |
 | Decisiones internas de Voces | `vocesdelasnubes/conocimiento/decisiones/` |
-| Requisitos oficiales del Small Grant | `ELDP/04_ELDP.md` |
-| Diseño aprobado de la candidatura | `ELDP/05_PROYECTO.md` |
-| Decisiones estratégicas ELDP | `ELDP/02_DECISIONES.md` |
-| Evidencia utilizada por la candidatura | `ELDP/08_EVIDENCIAS.md` |
+| Estado actual de candidatura ELDP | `ELDP/01_DASHBOARD.md` |
+| Decisiones ELDP | `ELDP/02_DECISIONES.md` |
+| Conocimiento consolidado sobre ELDP | `ELDP/04_ELDP.md` |
+| Evidencia histórica ELDP | `ELDP/08_EVIDENCIAS.md` |
 
-## Regla de consulta
+## Corrección explícita de COR002
 
-Antes de afirmar en este repositorio el estado actual de COR001, COR002, metodología, audio, validación, pedagogía, gramática u otros componentes de Voces de las Nubes, debe consultarse el repositorio `lopezcarlton/vocesdelasnubes`.
+Cualquier texto histórico de este repositorio que describa COR002 como una versión cerrada, como “107 conversaciones / 24 situaciones” o como “en revisión” no debe tratarse como vigente.
 
-Las descripciones históricas pueden conservarse cuando sean necesarias, pero deben identificarse como tales y no presentarse como estado vigente.
+**A fecha de esta actualización, la descripción correcta trasladada al archivo ELDP es: COR002 está en construcción y no está grabado.**
+
+La formulación futura debe volver a verificarse en `lopezcarlton/vocesdelasnubes` porque puede cambiar.
 
 ## Regla de no duplicación
 
-Este repositorio no debe mantener copias detalladas del estado cambiante de Voces de las Nubes.
+Mientras ELDP permanezca cerrado:
 
-Cuando la candidatura necesite describir trabajo previo, deberá:
+- no se actualiza aquí el progreso cotidiano de Voces;
+- no se copian decisiones lingüísticas nuevas;
+- no se mantiene un segundo backlog de Voces;
+- no se usan descripciones históricas como si fueran estado actual.
 
-1. consultar la fuente autoritativa;
-2. registrar únicamente la información necesaria para la candidatura;
-3. indicar que se trata de una fotografía del estado en una fecha determinada cuando corresponda;
-4. volver a verificarla antes de redactar o entregar la propuesta.
+## Si ELDP se reabre en el futuro
 
-## Independencia entre proyectos
+Una futura candidatura deberá:
 
-Las necesidades estratégicas de ELDP no modifican automáticamente Voces de las Nubes.
+1. consultar el estado vigente de Voces solo si realmente es relevante para ese proyecto;
+2. distinguir si la candidatura continúa alguna línea de Voces o constituye un proyecto documental independiente;
+3. no asumir que la lengua será didxazá;
+4. no asumir que la modalidad será Small Grant;
+5. registrar únicamente la fotografía mínima necesaria para la candidatura;
+6. volver a verificar esa fotografía antes del envío.
 
-Una decisión tomada aquí solo gobierna la candidatura, salvo que el proyecto principal la adopte explícitamente mediante sus propios procedimientos.
+## Independencia estratégica
 
-De manera inversa, una línea de trabajo importante dentro de Voces de las Nubes no tiene que incorporarse al Small Grant si no es pertinente para la candidatura.
+Cerrar ELDP 2026 no modifica Voces de las Nubes.
+
+Del mismo modo, una futura candidatura ELDP sobre otra lengua no se convierte automáticamente en una extensión de Voces. Cualquier relación entre ambos proyectos deberá adoptarse explícitamente y justificarse por mérito propio.
 
 ## Control de contradicciones
 
-Si una afirmación de este repositorio contradice al repositorio Voces de las Nubes en una materia gobernada por el proyecto principal, debe corregirse ELDP.
+Si ELDP contradice a Voces en una materia sobre el proyecto principal, se corrige ELDP.
 
-Si la contradicción se refiere a requisitos, límites o decisiones propias de la candidatura, prevalece este repositorio.
+Si la contradicción se refiere a la historia o decisiones de la exploración ELDP, prevalece este repositorio.
